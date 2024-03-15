@@ -1,0 +1,919 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Course Syllabus</title>
+
+<script src="site_libs/header-attrs-2.25/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/readable.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.13.2/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<script src="site_libs/navigation-1.1/codefolding.js"></script>
+<script src="site_libs/navigation-1.1/sourceembed.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/pagedtable-1.1/css/pagedtable.css" rel="stylesheet" />
+<script src="site_libs/pagedtable-1.1/js/pagedtable.js"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0BM7X404RV"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-0BM7X404RV');
+</script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+<style type="text/css">
+#rmd-source-code {
+  display: none;
+}
+</style>
+
+
+<link rel="stylesheet" href="includes/custom.css" type="text/css" />
+<link rel="stylesheet" href="font/css/roboto.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+<style type="text/css">
+.code-folding-btn { margin-bottom: 4px; }
+</style>
+
+
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Class Wiki for COURSE NAME (SEMESTER YEAR)</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="syllabus.html">Course Syllabus</a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    Miscellaneous
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="help.html">I Think I Might Need Some Help...</a>
+    </li>
+    <li>
+      <a href="devpsylab.html">Opportunity to Join My Research Lab!</a>
+    </li>
+  </ul>
+</li>
+<li>
+  <a href="about.html">About</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+<div class="btn-group pull-right float-right">
+<button type="button" class="btn btn-default btn-xs btn-secondary btn-sm dropdown-toggle" data-toggle="dropdown" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span>Code</span> <span class="caret"></span></button>
+<ul class="dropdown-menu dropdown-menu-right" style="min-width: 50px;">
+<li><a id="rmd-show-all-code" href="#">Show All Code</a></li>
+<li><a id="rmd-hide-all-code" href="#">Hide All Code</a></li>
+<li role="separator" class="divider"></li>
+<li><a id="rmd-download-source" href="#">Download Rmd</a></li>
+</ul>
+</div>
+
+
+
+<h1 class="title toc-ignore">Course Syllabus</h1>
+
+</div>
+
+
+<p>Last Updated: 02/22/2024</p>
+<div id="title" class="section level1" number="1">
+<h1><span class="header-section-number">1</span> Course Title</h1>
+<p>COURSE NUMBER – COURSE NAME (SEMESTER YEAR)</p>
+</div>
+<div id="lectureTime" class="section level1" number="2">
+<h1><span class="header-section-number">2</span> Course Meeting Time and
+Place</h1>
+<p><mark>INSERT</mark></p>
+</div>
+<div id="website" class="section level1" number="3">
+<h1><span class="header-section-number">3</span> Course Website</h1>
+<p><a href="https://icon.uiowa.edu"
+class="uri">https://icon.uiowa.edu</a></p>
+<p>To access the course site, log into <a
+href="https://icon.uiowa.edu">Iowa Courses Online (ICON)</a> using your
+Hawk ID and password.</p>
+</div>
+<div id="home" class="section level1" number="4">
+<h1><span class="header-section-number">4</span> Course Home</h1>
+<p>The College of Liberal Arts and Sciences (CLAS) is the home of this
+course, and CLAS governs the add and drop deadlines, the “second-grade
+only” option (SGO), academic misconduct policies, and other policies and
+procedures. Other UI colleges may have different policies.</p>
+</div>
+<div id="instructor" class="section level1" number="5">
+<h1><span class="header-section-number">5</span> Instructor Contact
+Information</h1>
+<p><a
+href="https://psychology.uiowa.edu/people/isaac-petersen">Professor
+Petersen</a><br />
+Office: 175 Psychological and Brain Sciences Building (PBSB)<br />
+E-mail: <a
+href="mailto:isaac-t-petersen@uiowa.edu">isaac-t-petersen@uiowa.edu</a><br />
+Office Phone: 467-1014<br />
+Student drop-in hours:<br />
+Note: I’m here to help you learn and succeed. Please come to my office
+hours to ask questions about course material, assignments, exams, or
+professional development (career-related issues), for instance. I
+welcome you to discuss any concerns you might have about the class. I am
+also available to meet with you by appointment, although I would
+appreciate your making every effort to see me during office hours. The
+best way to reach me outside of class is by email.</p>
+</div>
+<div id="deptResources" class="section level1" number="6">
+<h1><span class="header-section-number">6</span> Departmental
+Resources</h1>
+<p>Department of Psychological and Brain Sciences: <a
+href="https://psychology.uiowa.edu">https://psychology.uiowa.edu</a><br />
+Department of Psychological and Brain Sciences Main Office: G60
+Psychological and Brain Sciences Building (335-2406)<br />
+Coordinator of Undergraduate Studies: Professor Windschitl (<a
+href="mailto:paul-windschitl@uiowa.edu">paul-windschitl@uiowa.edu</a>;
+335-3681)<br />
+Academic Coordinator: Professor Johnson (<a
+href="mailto:debra-johnson@uiowa.edu">debra-johnson@uiowa.edu</a>;
+335-0135)<br />
+Chair of Department: Professor Blumberg (<a
+href="mailto:mark-blumberg@uiowa.edu">mark-blumberg@uiowa.edu</a>;
+335-2424)</p>
+</div>
+<div id="prereqs" class="section level1" number="7">
+<h1><span class="header-section-number">7</span> Prerequisites</h1>
+<p><mark>INSERT</mark></p>
+</div>
+<div id="description" class="section level1" number="8">
+<h1><span class="header-section-number">8</span> Description of
+Course</h1>
+<p><mark>INSERT</mark></p>
+<p><em>You are urged to reconsider your decision to take this class if
+you are reluctant to examine these topics in a scientific
+manner.</em></p>
+</div>
+<div id="objectives" class="section level1" number="9">
+<h1><span class="header-section-number">9</span> Learning
+Objectives</h1>
+<p><mark>INSERT</mark></p>
+</div>
+<div id="textbook" class="section level1" number="10">
+<h1><span class="header-section-number">10</span> Required Textbook</h1>
+<p><mark>INSERT</mark></p>
+</div>
+<div id="academicHonesty" class="section level1" number="11">
+<h1><span class="header-section-number">11</span> Academic Honesty and
+Misconduct</h1>
+<p>All students in CLAS courses are expected to abide by the <a
+href="https://clas.uiowa.edu/students/handbook/academic-fraud-honor-code">CLAS
+Code of Academic Honesty</a>. Academic misconduct must be reported by
+instructors to CLAS according to <a
+href="https://clas.uiowa.edu/students/handbook/academic-fraud-honor-code">these
+procedures</a>. Please note that collaboration with other classmates on
+<mark>INSERT</mark> is not permitted. However, I do encourage you to
+collaborate with classmates on <mark>INSERT</mark>. Because writing,
+analytical, and critical thinking skills are part of the learning
+outcomes of this course, all work submitted by students should be
+prepared by the student. Developing strong competencies in these domains
+will prepare you for a competitive workplace.Therefore, AI-generated
+submissions are not permitted and will be treated as plagiarism.</p>
+</div>
+<div id="requirements" class="section level1" number="12">
+<h1><span class="header-section-number">12</span> Course Requirements
+and Policies</h1>
+<div id="lecture" class="section level2" number="12.1">
+<h2><span class="header-section-number">12.1</span> Lecture</h2>
+<p><mark>INSERT</mark></p>
+</div>
+<div id="discussionSection" class="section level2" number="12.2">
+<h2><span class="header-section-number">12.2</span> Discussion
+Section</h2>
+<p><mark>INSERT</mark></p>
+</div>
+<div id="attendanceParticipation" class="section level2" number="12.3">
+<h2><span class="header-section-number">12.3</span> Attendance and
+Participation</h2>
+<p><mark>INSERT</mark></p>
+</div>
+<div id="readingQuizzes" class="section level2" number="12.4">
+<h2><span class="header-section-number">12.4</span> Readings &amp;
+Quizzes</h2>
+<p><mark>INSERT</mark></p>
+</div>
+<div id="exams" class="section level2" number="12.5">
+<h2><span class="header-section-number">12.5</span> Examinations</h2>
+<p><mark>INSERT</mark></p>
+<div id="missingExams" class="section level3" number="12.5.1">
+<h3><span class="header-section-number">12.5.1</span> Missing Exams</h3>
+<p>Students are allowed to make up exams that have been missed due to
+illness, mandatory religious observations, official University
+activities, or other unavoidable circumstances. Note: the format of the
+make-up exam may differ from the original exam. If you know that you
+must be away at the time of an exam for one of these reasons, Professor
+Petersen <mark>or the TA</mark> must be contacted in advance whenever
+possible to schedule a make-up exam. In order to take a make-up exam,
+you must provide acceptable documentation to be eligible to take it:
+including documentation for any report of illness; any other
+circumstances must be documented by the University of Iowa <a
+href="https://clas.uiowa.edu/faculty/student-attendance-and-absences">Absence
+Explanation Form</a> and must be approved by Professor Petersen. <u>In
+sum, to be eligible for a make-up exam, Professor Petersen <mark>or the
+TA</mark> must be contacted before the examination whenever possible,
+and you must send acceptable form of documentation to Professor Petersen
+<mark>or the TA</mark></u>.</p>
+</div>
+</div>
+</div>
+<div id="grading" class="section level1" number="13">
+<h1><span class="header-section-number">13</span> Grading</h1>
+<p><mark>INSERT</mark></p>
+</div>
+<div id="outline" class="section level1" number="14">
+<h1><span class="header-section-number">14</span> Tentative Course
+Outline (exam dates fixed)</h1>
+<p><mark>INSERT</mark></p>
+</div>
+<div id="finalExam" class="section level1" number="15">
+<h1><span class="header-section-number">15</span> Date and Time of the
+Final Exam</h1>
+<p>The final examination date and time will be announced by the
+Registrar generally by the fifth week of classes and it will be
+announced on the course ICON site once it is known. <u>Do not plan your
+end of the semester travel plans until the final exam schedule is made
+public. It is your responsibility to know the date, time, and place of
+the final exam.</u> According to Registrar’s final exam policy, students
+<u>have a maximum of two weeks after the announced final exam
+schedule</u> to request a change if an exam conflict exists or if a
+student has more than two exams in one day (see the <a
+href="https://registrar.uiowa.edu/makeup-final-examination-policies">policy</a>
+here).</p>
+</div>
+<div id="courseResources" class="section level1" number="16">
+<h1><span class="header-section-number">16</span> Course Resources</h1>
+<p>There are many course resources available to help you succeed in the
+class, including:</p>
+<ul>
+<li><mark>INSERT</mark></li>
+</ul>
+</div>
+<div id="dropDeadline" class="section level1" number="17">
+<h1><span class="header-section-number">17</span> Drop Deadline for this
+Course</h1>
+<p>You may drop an individual course before the deadline; after this
+deadline you will need collegiate approval. You can look up the <a
+href="https://registrar.uiowa.edu/course-deadlines">drop deadline for
+this course</a> here. When you drop a course, a “W” will appear on your
+transcript. The mark of “W” is a neutral mark that does not affect your
+GPA. Directions for adding or dropping a course and other registration
+changes can be found on the <a
+href="https://registrar.uiowa.edu/change-registration-myui">Registrar’s
+website</a>. Students can find policies on dropping CLAS courses <a
+href="https://clas.uiowa.edu/students/students-academic-policies/registration-policies#dropping">here</a>.</p>
+</div>
+<div id="feedback" class="section level1" number="18">
+<h1><span class="header-section-number">18</span> Feedback about the
+Course</h1>
+<p>I welcome feedback at any point during the class. If you have
+comments on the class or my teaching, please feel free to meet with me
+during office hours.</p>
+<div id="complaints" class="section level2" number="18.1">
+<h2><span class="header-section-number">18.1</span> Student
+Complaints</h2>
+<p>Students with a complaint about a grade or a related matter should
+first discuss the situation with the instructor, and finally with the
+Director or Chair of the school, department, or program offering the
+course. Students should contact <a
+href="https://clas.uiowa.edu/students/handbook/student-rights-responsibilities#rights">CLAS
+Undergraduate Programs</a> for support when the matter is not resolved
+at the previous level.</p>
+</div>
+</div>
+<div id="email" class="section level1" number="19">
+<h1><span class="header-section-number">19</span> Communication: UI
+Email</h1>
+<p>Students are responsible for all official correspondences sent to
+their UI email address (uiowa.edu) and must use this address for any
+communication with instructors or staff in the UI community. For the
+privacy and the protection of student records, UI faculty and staff can
+only correspond with UI email addresses.</p>
+</div>
+<div id="health" class="section level1" number="20">
+<h1><span class="header-section-number">20</span> Health and Safety</h1>
+<p>The University of Iowa strongly encourages students, faculty, and
+staff to be vaccinated against COVID-19. For information about COVID-19
+vaccines on campus, please see <a href="https://coronavirus.uiowa.edu"
+class="uri">https://coronavirus.uiowa.edu</a>. If you are feeling sick,
+test positive for COVID-19, or may have been exposed to COVID-19, please
+refer to the campus guidance for the appropriate action (<a
+href="https://coronavirus.uiowa.edu/returning-campus/showing-symptoms"
+class="uri">https://coronavirus.uiowa.edu/returning-campus/showing-symptoms</a>).
+Regardless of your vaccination status, if you have symptoms consistent
+with COVID-19, please stay home and follow the appropriate
+isolation/quarantine guidance. For up-to-date information throughout the
+semester, please refer to <a href="https://coronavirus.uiowa.edu"
+class="uri">https://coronavirus.uiowa.edu</a>.</p>
+</div>
+<div id="clasPolicies" class="section level1" number="21">
+<h1><span class="header-section-number">21</span> College of Liberal
+Arts and Sciences (CLAS) Course Policies</h1>
+<ul>
+<li><a
+href="https://clas.uiowa.edu/faculty/student-attendance-and-absences">Attendance
+and Absences</a><br />
+<a href="https://opsmanual.uiowa.edu/students/absences-class">University
+regulations require that students be allowed to make up examinations</a>
+that have been missed due to illness, religious holy days, military
+service obligations (including service-related medical appointments), or
+other unavoidable circumstances or University-sponsored activities. See
+the section above on “<a href="#missingExams">Missing Exams</a>” for the
+documentation necessary for an absence to be excused and to be eligible
+to take a make-up exam. Students with UI-authorized activities must
+discuss their absences with the instructor or TA as soon as possible.
+Religious obligations must be communicated within the first three weeks
+of classes.</li>
+</ul>
+<div id="otherExpectations" class="section level2" number="21.1">
+<h2><span class="header-section-number">21.1</span> Other Expectations
+of Student Performance</h2>
+<p>Students have the right to a distraction-free learning environment.
+You have the responsibility to help create such a classroom environment.
+Please treat other students in the class, the TAs, and the instructor
+with respect. Students are expected to help each other learn and to
+contribute overall to the learning environment of the course. Arriving
+prepared for class is part of this expectation.</p>
+</div>
+</div>
+<div id="UIowaPolicies" class="section level1" number="22">
+<h1><span class="header-section-number">22</span> University
+Policies</h1>
+<p><a
+href="https://provost.uiowa.edu/teaching-resources/course-syllabi-information#accommodations-for-students-with-disabilities">Accommodations
+for Students with Disabilities</a><br />
+The University is committed to providing an educational experience that
+is accessible to all. If a student has a diagnosed disability or other
+disabling condition that may impact the student’s ability to complete
+the course requirements as stated in the syllabus, the student may seek
+accommodations through <a
+href="https://sds.studentlife.uiowa.edu/students">Student Disability
+Services</a> (SDS). SDS is responsible for making Letters of
+Accommodation (LOA) available. <u>The student must provide an LOA to the
+instructor as early in the semester as possible, but requests not made
+at least two weeks prior to the scheduled activity for which an
+accommodation is sought may not be accommodated.</u> The LOA will
+specify what reasonable course accommodations the student is eligible
+for and those the instructor should provide. Additional information can
+be found on the <a
+href="https://sds.studentlife.uiowa.edu/students/apply">SDS
+website</a>.</p>
+<ul>
+<li><a
+href="https://provost.uiowa.edu/teaching-resources/course-syllabi-information#free-speech-and-expression">Free
+Speech and Expression</a></li>
+<li><a
+href="https://provost.uiowa.edu/teaching-resources/course-syllabi-information#absences-for-religious-holy-days">Absences
+for Religious Holy Days</a></li>
+<li><a
+href="https://provost.uiowa.edu/teaching-resources/course-syllabi-information#non-discrimination-statement">Non-discrimination</a></li>
+<li><a
+href="https://provost.uiowa.edu/teaching-resources/course-syllabi-information#classroom-expectations">Classroom
+Expectations</a></li>
+<li><a
+href="https://provost.uiowa.edu/teaching-resources/course-syllabi-information#sexual-harassment--sexual-misconduct-and-supportive-measures">Sexual
+Harassment/Misconduct and Supportive Measures</a></li>
+<li><a
+href="https://provost.uiowa.edu/teaching-resources/course-syllabi-information#conflict-resolution">Conflict
+Resolution</a></li>
+<li><a
+href="https://provost.uiowa.edu/teaching-resources/course-syllabi-information#mental-health">Mental
+Health</a></li>
+<li><a
+href="https://provost.uiowa.edu/teaching-resources/course-syllabi-information#basic-needs-and-student-support">Basic
+Needs and Student Support</a></li>
+<li><a
+href="https://provost.uiowa.edu/teaching-resources/course-syllabi-information#sharing-of-class-recordings-if-appropriate">Sharing
+of Class Recordings</a></li>
+<li><a
+href="https://provost.uiowa.edu/teaching-resources/course-syllabi-information#absences-from-class">Absences
+from Class</a></li>
+<li><a
+href="https://provost.uiowa.edu/teaching-resources/course-syllabi-information#absences-for-military-service-obligations">Absences
+for Military Service Obligations</a></li>
+</ul>
+</div>
+<div id="academic-support" class="section level1" number="23">
+<h1><span class="header-section-number">23</span> Where to Get Academic
+Support for This Course</h1>
+<ul>
+<li>Drop-in study groups and one-on-one tutoring: drop-in student hours
+of the <mark>undergraduate TA, graduate TA, and</mark> instructor</li>
+<li>Formal tutoring: Tutor Iowa: <a href="https://tutor.uiowa.edu"
+class="uri">https://tutor.uiowa.edu</a></li>
+<li>UI Writing Center: <a href="https://writingcenter.uiowa.edu"
+class="uri">https://writingcenter.uiowa.edu</a></li>
+<li>Academic accommodations: <a href="https://sds.studentlife.uiowa.edu"
+class="uri">https://sds.studentlife.uiowa.edu</a></li>
+</ul>
+</div>
+<div id="mental-health" class="section level1" number="24">
+<h1><span class="header-section-number">24</span> Mental Health
+Resources and Student Support</h1>
+<p>Students are encouraged to be mindful of their mental health and seek
+help as a preventive measure or if feeling overwhelmed and/or struggling
+to meet course expectations. Students are encouraged to talk to their
+instructor for assistance with specific class-related concerns. For
+additional support and counseling, students are encouraged to contact
+University Counseling Service (UCS). Information about UCS, including
+resources and how to schedule an appointment, can be found at <a
+href="https://counseling.uiowa.edu">counseling.uiowa.edu</a>. Find out
+more about UI mental health services at <a
+href="http://mentalhealth.uiowa.edu">mentalhealth.uiowa.edu</a>.</p>
+<p><a href="https://dos.uiowa.edu/assistance">Student Care and
+Assistance</a> provides assistance to University of Iowa students who
+are experiencing a variety of crisis and emergency situations, including
+but not limited to medical issues, family emergencies, unexpected
+challenges, and sourcing basic needs such as food and shelter. More
+information on the resources related to basic needs can be found at <a
+href="https://basicneeds.uiowa.edu/resources">basicneeds.uiowa.edu/resources</a>.
+Students are encouraged to contact Student Care &amp; Assistance in the
+Office of the Dean of Students (Room 135 IMU, <a
+href="dos-assistance@uiowa.edu">dos-assistance@uiowa.edu</a>, or
+319-335-1162) for support and assistance with resources.</p>
+<p>If you feel that you or someone you know may be struggling with an
+academic, emotional, or psychological problem, the following
+organizations are available for assistance:</p>
+<table>
+<colgroup>
+<col width="53%" />
+<col width="46%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th align="left">Service</th>
+<th align="left">Contact Info</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">University of Iowa Academic Advising Center</td>
+<td align="left">353-5700, <a href="https://advisingcenter.uiowa.edu"
+class="uri">https://advisingcenter.uiowa.edu</a></td>
+</tr>
+<tr class="even">
+<td align="left">University Counseling Services</td>
+<td align="left">335-7294, <a href="https://www.uiowa.edu/ucs"
+class="uri">https://www.uiowa.edu/ucs</a></td>
+</tr>
+<tr class="odd">
+<td align="left">Student Health Service - Mental Health</td>
+<td align="left">335-8394, <a
+href="https://studenthealth.uiowa.edu/services/psychiatry"
+class="uri">https://studenthealth.uiowa.edu/services/psychiatry</a></td>
+</tr>
+<tr class="even">
+<td align="left">University of Iowa Hospitals and Clinics Adult
+Psychiatry Services Clinic</td>
+<td align="left">353-6314, <a
+href="https://www.uihealthcare.org/Psychiatry"
+class="uri">https://www.uihealthcare.org/Psychiatry</a></td>
+</tr>
+<tr class="odd">
+<td align="left">Seashore Clinic (in the UI Department of Psychological
+and Brain Sciences)</td>
+<td align="left">335-2467, <a
+href="https://psychology.uiowa.edu/resources/seashore-clinic"
+class="uri">https://psychology.uiowa.edu/resources/seashore-clinic</a></td>
+</tr>
+<tr class="even">
+<td align="left">Women’s Resource and Action Center</td>
+<td align="left">335-1486, <a href="https://wrac.uiowa.edu"
+class="uri">https://wrac.uiowa.edu</a></td>
+</tr>
+<tr class="odd">
+<td align="left">Rape Victim Advocacy Program</td>
+<td align="left">319-335-6000 or 800-228-1625, <a
+href="https://www.uiowa.edu/~rvap"
+class="uri">https://www.uiowa.edu/~rvap</a></td>
+</tr>
+<tr class="even">
+<td align="left">Office of Sexual Misconduct</td>
+<td align="left">319-335-6200, <a href="https://osmrc.uiowa.edu"
+class="uri">https://osmrc.uiowa.edu</a></td>
+</tr>
+<tr class="odd">
+<td align="left">CommUnity</td>
+<td align="left">855-325-4296, <a
+href="https://builtbycommunity.org/crisis"
+class="uri">https://builtbycommunity.org/crisis</a></td>
+</tr>
+<tr class="even">
+<td align="left">Community &amp; Family Resources</td>
+<td align="left">351-4357, <a href="https://www.cfrhelps.org/"
+class="uri">https://www.cfrhelps.org/</a></td>
+</tr>
+</tbody>
+</table>
+<p><u>If you or someone you know is contemplating suicide</u>, either
+call or text the Suicide and Crisis Lifeline at 988, or call 911.</p>
+</div>
+<div id="disclaimer" class="section level1" number="25">
+<h1><span class="header-section-number">25</span> Disclaimer</h1>
+<p>This syllabus is subject to change. Any changes will be discussed in
+class, via email, and/or on ICON.</p>
+</div>
+
+<div id="rmd-source-code">LS0tCnRpdGxlOiAiQ291cnNlIFN5bGxhYnVzIgotLS0KCmBgYHtyIHNldHVwLCBpbmNsdWRlID0gRkFMU0V9CmtuaXRyOjpvcHRzX2NodW5rJHNldChlY2hvID0gVFJVRSwKICAgICAgICAgICAgICAgICAgICAgIGVycm9yID0gVFJVRSwKICAgICAgICAgICAgICAgICAgICAgIGNvbW1lbnQgPSAiIikKYGBgCgpMYXN0IFVwZGF0ZWQ6IGByIGZvcm1hdChTeXMuRGF0ZSgpLCAiJW0vJWQvJVkiKWAKCiMgQ291cnNlIFRpdGxlIHsjdGl0bGV9CgpDT1VSU0UgTlVNQkVSIOKAkyBDT1VSU0UgTkFNRSAoU0VNRVNURVIgWUVBUikKCiMgQ291cnNlIE1lZXRpbmcgVGltZSBhbmQgUGxhY2UgeyNsZWN0dXJlVGltZX0KCjxtYXJrPklOU0VSVDwvbWFyaz4KCiMgQ291cnNlIFdlYnNpdGUgeyN3ZWJzaXRlfQoKaHR0cHM6Ly9pY29uLnVpb3dhLmVkdQoKVG8gYWNjZXNzIHRoZSBjb3Vyc2Ugc2l0ZSwgbG9nIGludG8gW0lvd2EgQ291cnNlcyBPbmxpbmUgKElDT04pXShodHRwczovL2ljb24udWlvd2EuZWR1KSB1c2luZyB5b3VyIEhhd2sgSUQgYW5kIHBhc3N3b3JkLgoKIyBDb3Vyc2UgSG9tZSB7I2hvbWV9CgpUaGUgQ29sbGVnZSBvZiBMaWJlcmFsIEFydHMgYW5kIFNjaWVuY2VzIChDTEFTKSBpcyB0aGUgaG9tZSBvZiB0aGlzIGNvdXJzZSwgYW5kIENMQVMgZ292ZXJucyB0aGUgYWRkIGFuZCBkcm9wIGRlYWRsaW5lcywgdGhlICJzZWNvbmQtZ3JhZGUgb25seSIgb3B0aW9uIChTR08pLCBhY2FkZW1pYyBtaXNjb25kdWN0IHBvbGljaWVzLCBhbmQgb3RoZXIgcG9saWNpZXMgYW5kIHByb2NlZHVyZXMuCk90aGVyIFVJIGNvbGxlZ2VzIG1heSBoYXZlIGRpZmZlcmVudCBwb2xpY2llcy4KCiMgSW5zdHJ1Y3RvciBDb250YWN0IEluZm9ybWF0aW9uIHsjaW5zdHJ1Y3Rvcn0KCltQcm9mZXNzb3IgUGV0ZXJzZW5dKGh0dHBzOi8vcHN5Y2hvbG9neS51aW93YS5lZHUvcGVvcGxlL2lzYWFjLXBldGVyc2VuKVwKT2ZmaWNlOiAxNzUgUHN5Y2hvbG9naWNhbCBhbmQgQnJhaW4gU2NpZW5jZXMgQnVpbGRpbmcgKFBCU0IpXApFLW1haWw6IFtpc2FhYy10LXBldGVyc2VuQHVpb3dhLmVkdV0obWFpbHRvOmlzYWFjLXQtcGV0ZXJzZW5AdWlvd2EuZWR1KVwKT2ZmaWNlIFBob25lOiA0NjctMTAxNFwKU3R1ZGVudCBkcm9wLWluIGhvdXJzOiBcCk5vdGU6IEknbSBoZXJlIHRvIGhlbHAgeW91IGxlYXJuIGFuZCBzdWNjZWVkLgpQbGVhc2UgY29tZSB0byBteSBvZmZpY2UgaG91cnMgdG8gYXNrIHF1ZXN0aW9ucyBhYm91dCBjb3Vyc2UgbWF0ZXJpYWwsIGFzc2lnbm1lbnRzLCBleGFtcywgb3IgcHJvZmVzc2lvbmFsIGRldmVsb3BtZW50IChjYXJlZXItcmVsYXRlZCBpc3N1ZXMpLCBmb3IgaW5zdGFuY2UuCkkgd2VsY29tZSB5b3UgdG8gZGlzY3VzcyBhbnkgY29uY2VybnMgeW91IG1pZ2h0IGhhdmUgYWJvdXQgdGhlIGNsYXNzLgpJIGFtIGFsc28gYXZhaWxhYmxlIHRvIG1lZXQgd2l0aCB5b3UgYnkgYXBwb2ludG1lbnQsIGFsdGhvdWdoIEkgd291bGQgYXBwcmVjaWF0ZSB5b3VyIG1ha2luZyBldmVyeSBlZmZvcnQgdG8gc2VlIG1lIGR1cmluZyBvZmZpY2UgaG91cnMuClRoZSBiZXN0IHdheSB0byByZWFjaCBtZSBvdXRzaWRlIG9mIGNsYXNzIGlzIGJ5IGVtYWlsLgoKIyBEZXBhcnRtZW50YWwgUmVzb3VyY2VzIHsjZGVwdFJlc291cmNlc30KCkRlcGFydG1lbnQgb2YgUHN5Y2hvbG9naWNhbCBhbmQgQnJhaW4gU2NpZW5jZXM6IFtodHRwczovL3BzeWNob2xvZ3kudWlvd2EuZWR1XShodHRwczovL3BzeWNob2xvZ3kudWlvd2EuZWR1KVwKRGVwYXJ0bWVudCBvZiBQc3ljaG9sb2dpY2FsIGFuZCBCcmFpbiBTY2llbmNlcyBNYWluIE9mZmljZTogRzYwIFBzeWNob2xvZ2ljYWwgYW5kIEJyYWluIFNjaWVuY2VzIEJ1aWxkaW5nICgzMzUtMjQwNilcCkNvb3JkaW5hdG9yIG9mIFVuZGVyZ3JhZHVhdGUgU3R1ZGllczogUHJvZmVzc29yIFdpbmRzY2hpdGwgKFtwYXVsLXdpbmRzY2hpdGxAdWlvd2EuZWR1XShtYWlsdG86cGF1bC13aW5kc2NoaXRsQHVpb3dhLmVkdSk7IDMzNS0zNjgxKVwKQWNhZGVtaWMgQ29vcmRpbmF0b3I6IFByb2Zlc3NvciBKb2huc29uIChbZGVicmEtam9obnNvbkB1aW93YS5lZHVdKG1haWx0bzpkZWJyYS1qb2huc29uQHVpb3dhLmVkdSk7IDMzNS0wMTM1KVwKQ2hhaXIgb2YgRGVwYXJ0bWVudDogUHJvZmVzc29yIEJsdW1iZXJnIChbbWFyay1ibHVtYmVyZ0B1aW93YS5lZHVdKG1haWx0bzptYXJrLWJsdW1iZXJnQHVpb3dhLmVkdSk7IDMzNS0yNDI0KQoKIyBQcmVyZXF1aXNpdGVzIHsjcHJlcmVxc30KCjxtYXJrPklOU0VSVDwvbWFyaz4KCiMgRGVzY3JpcHRpb24gb2YgQ291cnNlIHsjZGVzY3JpcHRpb259Cgo8bWFyaz5JTlNFUlQ8L21hcms+CgoqWW91IGFyZSB1cmdlZCB0byByZWNvbnNpZGVyIHlvdXIgZGVjaXNpb24gdG8gdGFrZSB0aGlzIGNsYXNzIGlmIHlvdSBhcmUgcmVsdWN0YW50IHRvIGV4YW1pbmUgdGhlc2UgdG9waWNzIGluIGEgc2NpZW50aWZpYyBtYW5uZXIuKgoKIyBMZWFybmluZyBPYmplY3RpdmVzIHsjb2JqZWN0aXZlc30KCjxtYXJrPklOU0VSVDwvbWFyaz4KCiMgUmVxdWlyZWQgVGV4dGJvb2sgeyN0ZXh0Ym9va30KCjxtYXJrPklOU0VSVDwvbWFyaz4KCiMgQWNhZGVtaWMgSG9uZXN0eSBhbmQgTWlzY29uZHVjdCB7I2FjYWRlbWljSG9uZXN0eX0KCkFsbCBzdHVkZW50cyBpbiBDTEFTIGNvdXJzZXMgYXJlIGV4cGVjdGVkIHRvIGFiaWRlIGJ5IHRoZSBbQ0xBUyBDb2RlIG9mIEFjYWRlbWljIEhvbmVzdHldKGh0dHBzOi8vY2xhcy51aW93YS5lZHUvc3R1ZGVudHMvaGFuZGJvb2svYWNhZGVtaWMtZnJhdWQtaG9ub3ItY29kZSkuCkFjYWRlbWljIG1pc2NvbmR1Y3QgbXVzdCBiZSByZXBvcnRlZCBieSBpbnN0cnVjdG9ycyB0byBDTEFTIGFjY29yZGluZyB0byBbdGhlc2UgcHJvY2VkdXJlc10oaHR0cHM6Ly9jbGFzLnVpb3dhLmVkdS9zdHVkZW50cy9oYW5kYm9vay9hY2FkZW1pYy1mcmF1ZC1ob25vci1jb2RlKS4KUGxlYXNlIG5vdGUgdGhhdCBjb2xsYWJvcmF0aW9uIHdpdGggb3RoZXIgY2xhc3NtYXRlcyBvbiA8bWFyaz5JTlNFUlQ8L21hcms+IGlzIG5vdCBwZXJtaXR0ZWQuCkhvd2V2ZXIsIEkgZG8gZW5jb3VyYWdlIHlvdSB0byBjb2xsYWJvcmF0ZSB3aXRoIGNsYXNzbWF0ZXMgb24gPG1hcms+SU5TRVJUPC9tYXJrPi4KQmVjYXVzZSB3cml0aW5nLCBhbmFseXRpY2FsLCBhbmQgY3JpdGljYWwgdGhpbmtpbmcgc2tpbGxzIGFyZSBwYXJ0IG9mIHRoZSBsZWFybmluZyBvdXRjb21lcyBvZiB0aGlzIGNvdXJzZSwgYWxsIHdvcmsgc3VibWl0dGVkIGJ5IHN0dWRlbnRzIHNob3VsZCBiZSBwcmVwYXJlZCBieSB0aGUgc3R1ZGVudC4KRGV2ZWxvcGluZyBzdHJvbmcgY29tcGV0ZW5jaWVzIGluIHRoZXNlIGRvbWFpbnMgd2lsbCBwcmVwYXJlIHlvdSBmb3IgYSBjb21wZXRpdGl2ZSB3b3JrcGxhY2UuVGhlcmVmb3JlLCBBSS1nZW5lcmF0ZWQgc3VibWlzc2lvbnMgYXJlIG5vdCBwZXJtaXR0ZWQgYW5kIHdpbGwgYmUgdHJlYXRlZCBhcyBwbGFnaWFyaXNtLgoKIyBDb3Vyc2UgUmVxdWlyZW1lbnRzIGFuZCBQb2xpY2llcyB7I3JlcXVpcmVtZW50c30KCiMjIExlY3R1cmUgeyNsZWN0dXJlfQoKPG1hcms+SU5TRVJUPC9tYXJrPgoKIyMgRGlzY3Vzc2lvbiBTZWN0aW9uIHsjZGlzY3Vzc2lvblNlY3Rpb259Cgo8bWFyaz5JTlNFUlQ8L21hcms+CgojIyBBdHRlbmRhbmNlIGFuZCBQYXJ0aWNpcGF0aW9uIHsjYXR0ZW5kYW5jZVBhcnRpY2lwYXRpb259Cgo8bWFyaz5JTlNFUlQ8L21hcms+CgojIyBSZWFkaW5ncyAmIFF1aXp6ZXMgeyNyZWFkaW5nUXVpenplc30KCjxtYXJrPklOU0VSVDwvbWFyaz4KCiMjIEV4YW1pbmF0aW9ucyB7I2V4YW1zfQoKPG1hcms+SU5TRVJUPC9tYXJrPgoKIyMjIE1pc3NpbmcgRXhhbXMgeyNtaXNzaW5nRXhhbXN9CgpTdHVkZW50cyBhcmUgYWxsb3dlZCB0byBtYWtlIHVwIGV4YW1zIHRoYXQgaGF2ZSBiZWVuIG1pc3NlZCBkdWUgdG8gaWxsbmVzcywgbWFuZGF0b3J5IHJlbGlnaW91cyBvYnNlcnZhdGlvbnMsIG9mZmljaWFsIFVuaXZlcnNpdHkgYWN0aXZpdGllcywgb3Igb3RoZXIgdW5hdm9pZGFibGUgY2lyY3Vtc3RhbmNlcy4KTm90ZTogdGhlIGZvcm1hdCBvZiB0aGUgbWFrZS11cCBleGFtIG1heSBkaWZmZXIgZnJvbSB0aGUgb3JpZ2luYWwgZXhhbS4KSWYgeW91IGtub3cgdGhhdCB5b3UgbXVzdCBiZSBhd2F5IGF0IHRoZSB0aW1lIG9mIGFuIGV4YW0gZm9yIG9uZSBvZiB0aGVzZSByZWFzb25zLCBQcm9mZXNzb3IgUGV0ZXJzZW4gPG1hcms+b3IgdGhlIFRBPC9tYXJrPiBtdXN0IGJlIGNvbnRhY3RlZCBpbiBhZHZhbmNlIHdoZW5ldmVyIHBvc3NpYmxlIHRvIHNjaGVkdWxlIGEgbWFrZS11cCBleGFtLgpJbiBvcmRlciB0byB0YWtlIGEgbWFrZS11cCBleGFtLCB5b3UgbXVzdCBwcm92aWRlIGFjY2VwdGFibGUgZG9jdW1lbnRhdGlvbiB0byBiZSBlbGlnaWJsZSB0byB0YWtlIGl0OiBpbmNsdWRpbmcgZG9jdW1lbnRhdGlvbiBmb3IgYW55IHJlcG9ydCBvZiBpbGxuZXNzOyBhbnkgb3RoZXIgY2lyY3Vtc3RhbmNlcyBtdXN0IGJlIGRvY3VtZW50ZWQgYnkgdGhlIFVuaXZlcnNpdHkgb2YgSW93YSBbQWJzZW5jZSBFeHBsYW5hdGlvbiBGb3JtXShodHRwczovL2NsYXMudWlvd2EuZWR1L2ZhY3VsdHkvc3R1ZGVudC1hdHRlbmRhbmNlLWFuZC1hYnNlbmNlcykgYW5kIG11c3QgYmUgYXBwcm92ZWQgYnkgUHJvZmVzc29yIFBldGVyc2VuLgo8dT5JbiBzdW0sIHRvIGJlIGVsaWdpYmxlIGZvciBhIG1ha2UtdXAgZXhhbSwgUHJvZmVzc29yIFBldGVyc2VuIDxtYXJrPm9yIHRoZSBUQTwvbWFyaz4gbXVzdCBiZSBjb250YWN0ZWQgYmVmb3JlIHRoZSBleGFtaW5hdGlvbiB3aGVuZXZlciBwb3NzaWJsZSwgYW5kIHlvdSBtdXN0IHNlbmQgYWNjZXB0YWJsZSBmb3JtIG9mIGRvY3VtZW50YXRpb24gdG8gUHJvZmVzc29yIFBldGVyc2VuIDxtYXJrPm9yIHRoZSBUQTwvbWFyaz48L3U+LgoKIyBHcmFkaW5nIHsjZ3JhZGluZ30KCjxtYXJrPklOU0VSVDwvbWFyaz4KCiMgVGVudGF0aXZlIENvdXJzZSBPdXRsaW5lIChleGFtIGRhdGVzIGZpeGVkKSB7I291dGxpbmV9Cgo8bWFyaz5JTlNFUlQ8L21hcms+CgojIERhdGUgYW5kIFRpbWUgb2YgdGhlIEZpbmFsIEV4YW0geyNmaW5hbEV4YW19CgpUaGUgZmluYWwgZXhhbWluYXRpb24gZGF0ZSBhbmQgdGltZSB3aWxsIGJlIGFubm91bmNlZCBieSB0aGUgUmVnaXN0cmFyIGdlbmVyYWxseSBieSB0aGUgZmlmdGggd2VlayBvZiBjbGFzc2VzIGFuZCBpdCB3aWxsIGJlIGFubm91bmNlZCBvbiB0aGUgY291cnNlIElDT04gc2l0ZSBvbmNlIGl0IGlzIGtub3duLgo8dT5EbyBub3QgcGxhbiB5b3VyIGVuZCBvZiB0aGUgc2VtZXN0ZXIgdHJhdmVsIHBsYW5zIHVudGlsIHRoZSBmaW5hbCBleGFtIHNjaGVkdWxlIGlzIG1hZGUgcHVibGljLgpJdCBpcyB5b3VyIHJlc3BvbnNpYmlsaXR5IHRvIGtub3cgdGhlIGRhdGUsIHRpbWUsIGFuZCBwbGFjZSBvZiB0aGUgZmluYWwgZXhhbS48L3U+CkFjY29yZGluZyB0byBSZWdpc3RyYXIncyBmaW5hbCBleGFtIHBvbGljeSwgc3R1ZGVudHMgPHU+aGF2ZSBhIG1heGltdW0gb2YgdHdvIHdlZWtzIGFmdGVyIHRoZSBhbm5vdW5jZWQgZmluYWwgZXhhbSBzY2hlZHVsZTwvdT4gdG8gcmVxdWVzdCBhIGNoYW5nZSBpZiBhbiBleGFtIGNvbmZsaWN0IGV4aXN0cyBvciBpZiBhIHN0dWRlbnQgaGFzIG1vcmUgdGhhbiB0d28gZXhhbXMgaW4gb25lIGRheSAoc2VlIHRoZSBbcG9saWN5XShodHRwczovL3JlZ2lzdHJhci51aW93YS5lZHUvbWFrZXVwLWZpbmFsLWV4YW1pbmF0aW9uLXBvbGljaWVzKSBoZXJlKS4KCiMgQ291cnNlIFJlc291cmNlcyB7I2NvdXJzZVJlc291cmNlc30KClRoZXJlIGFyZSBtYW55IGNvdXJzZSByZXNvdXJjZXMgYXZhaWxhYmxlIHRvIGhlbHAgeW91IHN1Y2NlZWQgaW4gdGhlIGNsYXNzLCBpbmNsdWRpbmc6CgotIDxtYXJrPklOU0VSVDwvbWFyaz4KCiMgRHJvcCBEZWFkbGluZSBmb3IgdGhpcyBDb3Vyc2UgeyNkcm9wRGVhZGxpbmV9CgpZb3UgbWF5IGRyb3AgYW4gaW5kaXZpZHVhbCBjb3Vyc2UgYmVmb3JlIHRoZSBkZWFkbGluZTsgYWZ0ZXIgdGhpcyBkZWFkbGluZSB5b3Ugd2lsbCBuZWVkIGNvbGxlZ2lhdGUgYXBwcm92YWwuCllvdSBjYW4gbG9vayB1cCB0aGUgW2Ryb3AgZGVhZGxpbmUgZm9yIHRoaXMgY291cnNlXShodHRwczovL3JlZ2lzdHJhci51aW93YS5lZHUvY291cnNlLWRlYWRsaW5lcykgaGVyZS4KV2hlbiB5b3UgZHJvcCBhIGNvdXJzZSwgYSAiVyIgd2lsbCBhcHBlYXIgb24geW91ciB0cmFuc2NyaXB0LgpUaGUgbWFyayBvZiAiVyIgaXMgYSBuZXV0cmFsIG1hcmsgdGhhdCBkb2VzIG5vdCBhZmZlY3QgeW91ciBHUEEuCkRpcmVjdGlvbnMgZm9yIGFkZGluZyBvciBkcm9wcGluZyBhIGNvdXJzZSBhbmQgb3RoZXIgcmVnaXN0cmF0aW9uIGNoYW5nZXMgY2FuIGJlIGZvdW5kIG9uIHRoZSBbUmVnaXN0cmFyJ3Mgd2Vic2l0ZV0oaHR0cHM6Ly9yZWdpc3RyYXIudWlvd2EuZWR1L2NoYW5nZS1yZWdpc3RyYXRpb24tbXl1aSkuClN0dWRlbnRzIGNhbiBmaW5kIHBvbGljaWVzIG9uIGRyb3BwaW5nIENMQVMgY291cnNlcyBbaGVyZV0oaHR0cHM6Ly9jbGFzLnVpb3dhLmVkdS9zdHVkZW50cy9zdHVkZW50cy1hY2FkZW1pYy1wb2xpY2llcy9yZWdpc3RyYXRpb24tcG9saWNpZXMjZHJvcHBpbmcpLgoKIyBGZWVkYmFjayBhYm91dCB0aGUgQ291cnNlIHsjZmVlZGJhY2t9CgpJIHdlbGNvbWUgZmVlZGJhY2sgYXQgYW55IHBvaW50IGR1cmluZyB0aGUgY2xhc3MuCklmIHlvdSBoYXZlIGNvbW1lbnRzIG9uIHRoZSBjbGFzcyBvciBteSB0ZWFjaGluZywgcGxlYXNlIGZlZWwgZnJlZSB0byBtZWV0IHdpdGggbWUgZHVyaW5nIG9mZmljZSBob3Vycy4KCiMjIFN0dWRlbnQgQ29tcGxhaW50cyB7I2NvbXBsYWludHN9CgpTdHVkZW50cyB3aXRoIGEgY29tcGxhaW50IGFib3V0IGEgZ3JhZGUgb3IgYSByZWxhdGVkIG1hdHRlciBzaG91bGQgZmlyc3QgZGlzY3VzcyB0aGUgc2l0dWF0aW9uIHdpdGggdGhlIGluc3RydWN0b3IsIGFuZCBmaW5hbGx5IHdpdGggdGhlIERpcmVjdG9yIG9yIENoYWlyIG9mIHRoZSBzY2hvb2wsIGRlcGFydG1lbnQsIG9yIHByb2dyYW0gb2ZmZXJpbmcgdGhlIGNvdXJzZS4KU3R1ZGVudHMgc2hvdWxkIGNvbnRhY3QgW0NMQVMgVW5kZXJncmFkdWF0ZSBQcm9ncmFtc10oaHR0cHM6Ly9jbGFzLnVpb3dhLmVkdS9zdHVkZW50cy9oYW5kYm9vay9zdHVkZW50LXJpZ2h0cy1yZXNwb25zaWJpbGl0aWVzI3JpZ2h0cykgZm9yIHN1cHBvcnQgd2hlbiB0aGUgbWF0dGVyIGlzIG5vdCByZXNvbHZlZCBhdCB0aGUgcHJldmlvdXMgbGV2ZWwuCgojIENvbW11bmljYXRpb246IFVJIEVtYWlsIHsjZW1haWx9CgpTdHVkZW50cyBhcmUgcmVzcG9uc2libGUgZm9yIGFsbCBvZmZpY2lhbCBjb3JyZXNwb25kZW5jZXMgc2VudCB0byB0aGVpciBVSSBlbWFpbCBhZGRyZXNzICh1aW93YS5lZHUpIGFuZCBtdXN0IHVzZSB0aGlzIGFkZHJlc3MgZm9yIGFueSBjb21tdW5pY2F0aW9uIHdpdGggaW5zdHJ1Y3RvcnMgb3Igc3RhZmYgaW4gdGhlIFVJIGNvbW11bml0eS4KRm9yIHRoZSBwcml2YWN5IGFuZCB0aGUgcHJvdGVjdGlvbiBvZiBzdHVkZW50IHJlY29yZHMsIFVJIGZhY3VsdHkgYW5kIHN0YWZmIGNhbiBvbmx5IGNvcnJlc3BvbmQgd2l0aCBVSSBlbWFpbCBhZGRyZXNzZXMuCgojIEhlYWx0aCBhbmQgU2FmZXR5IHsjaGVhbHRofQoKVGhlIFVuaXZlcnNpdHkgb2YgSW93YSBzdHJvbmdseSBlbmNvdXJhZ2VzIHN0dWRlbnRzLCBmYWN1bHR5LCBhbmQgc3RhZmYgdG8gYmUgdmFjY2luYXRlZCBhZ2FpbnN0IENPVklELTE5LgpGb3IgaW5mb3JtYXRpb24gYWJvdXQgQ09WSUQtMTkgdmFjY2luZXMgb24gY2FtcHVzLCBwbGVhc2Ugc2VlIGh0dHBzOi8vY29yb25hdmlydXMudWlvd2EuZWR1LgpJZiB5b3UgYXJlIGZlZWxpbmcgc2ljaywgdGVzdCBwb3NpdGl2ZSBmb3IgQ09WSUQtMTksIG9yIG1heSBoYXZlIGJlZW4gZXhwb3NlZCB0byBDT1ZJRC0xOSwgcGxlYXNlIHJlZmVyIHRvIHRoZSBjYW1wdXMgZ3VpZGFuY2UgZm9yIHRoZSBhcHByb3ByaWF0ZSBhY3Rpb24gKGh0dHBzOi8vY29yb25hdmlydXMudWlvd2EuZWR1L3JldHVybmluZy1jYW1wdXMvc2hvd2luZy1zeW1wdG9tcykuClJlZ2FyZGxlc3Mgb2YgeW91ciB2YWNjaW5hdGlvbiBzdGF0dXMsIGlmIHlvdSBoYXZlIHN5bXB0b21zIGNvbnNpc3RlbnQgd2l0aCBDT1ZJRC0xOSwgcGxlYXNlIHN0YXkgaG9tZSBhbmQgZm9sbG93IHRoZSBhcHByb3ByaWF0ZSBpc29sYXRpb24vcXVhcmFudGluZSBndWlkYW5jZS4KRm9yIHVwLXRvLWRhdGUgaW5mb3JtYXRpb24gdGhyb3VnaG91dCB0aGUgc2VtZXN0ZXIsIHBsZWFzZSByZWZlciB0byBodHRwczovL2Nvcm9uYXZpcnVzLnVpb3dhLmVkdS4KCiMgQ29sbGVnZSBvZiBMaWJlcmFsIEFydHMgYW5kIFNjaWVuY2VzIChDTEFTKSBDb3Vyc2UgUG9saWNpZXMgeyNjbGFzUG9saWNpZXN9CgotIFtBdHRlbmRhbmNlIGFuZCBBYnNlbmNlc10oaHR0cHM6Ly9jbGFzLnVpb3dhLmVkdS9mYWN1bHR5L3N0dWRlbnQtYXR0ZW5kYW5jZS1hbmQtYWJzZW5jZXMpXApbVW5pdmVyc2l0eSByZWd1bGF0aW9ucyByZXF1aXJlIHRoYXQgc3R1ZGVudHMgYmUgYWxsb3dlZCB0byBtYWtlIHVwIGV4YW1pbmF0aW9uc10oaHR0cHM6Ly9vcHNtYW51YWwudWlvd2EuZWR1L3N0dWRlbnRzL2Fic2VuY2VzLWNsYXNzKSB0aGF0IGhhdmUgYmVlbiBtaXNzZWQgZHVlIHRvIGlsbG5lc3MsIHJlbGlnaW91cyBob2x5IGRheXMsIG1pbGl0YXJ5IHNlcnZpY2Ugb2JsaWdhdGlvbnMgKGluY2x1ZGluZyBzZXJ2aWNlLXJlbGF0ZWQgbWVkaWNhbCBhcHBvaW50bWVudHMpLCBvciBvdGhlciB1bmF2b2lkYWJsZSBjaXJjdW1zdGFuY2VzIG9yIFVuaXZlcnNpdHktc3BvbnNvcmVkIGFjdGl2aXRpZXMuClNlZSB0aGUgc2VjdGlvbiBhYm92ZSBvbiAiW01pc3NpbmcgRXhhbXNdKCNtaXNzaW5nRXhhbXMpIiBmb3IgdGhlIGRvY3VtZW50YXRpb24gbmVjZXNzYXJ5IGZvciBhbiBhYnNlbmNlIHRvIGJlIGV4Y3VzZWQgYW5kIHRvIGJlIGVsaWdpYmxlIHRvIHRha2UgYSBtYWtlLXVwIGV4YW0uClN0dWRlbnRzIHdpdGggVUktYXV0aG9yaXplZCBhY3Rpdml0aWVzIG11c3QgZGlzY3VzcyB0aGVpciBhYnNlbmNlcyB3aXRoIHRoZSBpbnN0cnVjdG9yIG9yIFRBIGFzIHNvb24gYXMgcG9zc2libGUuClJlbGlnaW91cyBvYmxpZ2F0aW9ucyBtdXN0IGJlIGNvbW11bmljYXRlZCB3aXRoaW4gdGhlIGZpcnN0IHRocmVlIHdlZWtzIG9mIGNsYXNzZXMuCgojIyBPdGhlciBFeHBlY3RhdGlvbnMgb2YgU3R1ZGVudCBQZXJmb3JtYW5jZSB7I290aGVyRXhwZWN0YXRpb25zfQoKU3R1ZGVudHMgaGF2ZSB0aGUgcmlnaHQgdG8gYSBkaXN0cmFjdGlvbi1mcmVlIGxlYXJuaW5nIGVudmlyb25tZW50LgpZb3UgaGF2ZSB0aGUgcmVzcG9uc2liaWxpdHkgdG8gaGVscCBjcmVhdGUgc3VjaCBhIGNsYXNzcm9vbSBlbnZpcm9ubWVudC4KUGxlYXNlIHRyZWF0IG90aGVyIHN0dWRlbnRzIGluIHRoZSBjbGFzcywgdGhlIFRBcywgYW5kIHRoZSBpbnN0cnVjdG9yIHdpdGggcmVzcGVjdC4KU3R1ZGVudHMgYXJlIGV4cGVjdGVkIHRvIGhlbHAgZWFjaCBvdGhlciBsZWFybiBhbmQgdG8gY29udHJpYnV0ZSBvdmVyYWxsIHRvIHRoZSBsZWFybmluZyBlbnZpcm9ubWVudCBvZiB0aGUgY291cnNlLgpBcnJpdmluZyBwcmVwYXJlZCBmb3IgY2xhc3MgaXMgcGFydCBvZiB0aGlzIGV4cGVjdGF0aW9uLgoKIyBVbml2ZXJzaXR5IFBvbGljaWVzIHsjVUlvd2FQb2xpY2llc30KCltBY2NvbW1vZGF0aW9ucyBmb3IgU3R1ZGVudHMgd2l0aCBEaXNhYmlsaXRpZXNdKGh0dHBzOi8vcHJvdm9zdC51aW93YS5lZHUvdGVhY2hpbmctcmVzb3VyY2VzL2NvdXJzZS1zeWxsYWJpLWluZm9ybWF0aW9uI2FjY29tbW9kYXRpb25zLWZvci1zdHVkZW50cy13aXRoLWRpc2FiaWxpdGllcylcClRoZSBVbml2ZXJzaXR5IGlzIGNvbW1pdHRlZCB0byBwcm92aWRpbmcgYW4gZWR1Y2F0aW9uYWwgZXhwZXJpZW5jZSB0aGF0IGlzIGFjY2Vzc2libGUgdG8gYWxsLgpJZiBhIHN0dWRlbnQgaGFzIGEgZGlhZ25vc2VkIGRpc2FiaWxpdHkgb3Igb3RoZXIgZGlzYWJsaW5nIGNvbmRpdGlvbiB0aGF0IG1heSBpbXBhY3QgdGhlIHN0dWRlbnQncyBhYmlsaXR5IHRvIGNvbXBsZXRlIHRoZSBjb3Vyc2UgcmVxdWlyZW1lbnRzIGFzIHN0YXRlZCBpbiB0aGUgc3lsbGFidXMsIHRoZSBzdHVkZW50IG1heSBzZWVrIGFjY29tbW9kYXRpb25zIHRocm91Z2ggW1N0dWRlbnQgRGlzYWJpbGl0eSBTZXJ2aWNlc10oaHR0cHM6Ly9zZHMuc3R1ZGVudGxpZmUudWlvd2EuZWR1L3N0dWRlbnRzKSAoU0RTKS4KU0RTIGlzIHJlc3BvbnNpYmxlIGZvciBtYWtpbmcgTGV0dGVycyBvZiBBY2NvbW1vZGF0aW9uIChMT0EpIGF2YWlsYWJsZS4KPHU+VGhlIHN0dWRlbnQgbXVzdCBwcm92aWRlIGFuIExPQSB0byB0aGUgaW5zdHJ1Y3RvciBhcyBlYXJseSBpbiB0aGUgc2VtZXN0ZXIgYXMgcG9zc2libGUsIGJ1dCByZXF1ZXN0cyBub3QgbWFkZSBhdCBsZWFzdCB0d28gd2Vla3MgcHJpb3IgdG8gdGhlIHNjaGVkdWxlZCBhY3Rpdml0eSBmb3Igd2hpY2ggYW4gYWNjb21tb2RhdGlvbiBpcyBzb3VnaHQgbWF5IG5vdCBiZSBhY2NvbW1vZGF0ZWQuPC91PgpUaGUgTE9BIHdpbGwgc3BlY2lmeSB3aGF0IHJlYXNvbmFibGUgY291cnNlIGFjY29tbW9kYXRpb25zIHRoZSBzdHVkZW50IGlzIGVsaWdpYmxlIGZvciBhbmQgdGhvc2UgdGhlIGluc3RydWN0b3Igc2hvdWxkIHByb3ZpZGUuIEFkZGl0aW9uYWwgaW5mb3JtYXRpb24gY2FuIGJlIGZvdW5kIG9uIHRoZSBbU0RTIHdlYnNpdGVdKGh0dHBzOi8vc2RzLnN0dWRlbnRsaWZlLnVpb3dhLmVkdS9zdHVkZW50cy9hcHBseSkuCgotIFtGcmVlIFNwZWVjaCBhbmQgRXhwcmVzc2lvbl0oaHR0cHM6Ly9wcm92b3N0LnVpb3dhLmVkdS90ZWFjaGluZy1yZXNvdXJjZXMvY291cnNlLXN5bGxhYmktaW5mb3JtYXRpb24jZnJlZS1zcGVlY2gtYW5kLWV4cHJlc3Npb24pCi0gW0Fic2VuY2VzIGZvciBSZWxpZ2lvdXMgSG9seSBEYXlzXShodHRwczovL3Byb3Zvc3QudWlvd2EuZWR1L3RlYWNoaW5nLXJlc291cmNlcy9jb3Vyc2Utc3lsbGFiaS1pbmZvcm1hdGlvbiNhYnNlbmNlcy1mb3ItcmVsaWdpb3VzLWhvbHktZGF5cykKLSBbTm9uLWRpc2NyaW1pbmF0aW9uXShodHRwczovL3Byb3Zvc3QudWlvd2EuZWR1L3RlYWNoaW5nLXJlc291cmNlcy9jb3Vyc2Utc3lsbGFiaS1pbmZvcm1hdGlvbiNub24tZGlzY3JpbWluYXRpb24tc3RhdGVtZW50KQotIFtDbGFzc3Jvb20gRXhwZWN0YXRpb25zXShodHRwczovL3Byb3Zvc3QudWlvd2EuZWR1L3RlYWNoaW5nLXJlc291cmNlcy9jb3Vyc2Utc3lsbGFiaS1pbmZvcm1hdGlvbiNjbGFzc3Jvb20tZXhwZWN0YXRpb25zKQotIFtTZXh1YWwgSGFyYXNzbWVudC9NaXNjb25kdWN0IGFuZCBTdXBwb3J0aXZlIE1lYXN1cmVzXShodHRwczovL3Byb3Zvc3QudWlvd2EuZWR1L3RlYWNoaW5nLXJlc291cmNlcy9jb3Vyc2Utc3lsbGFiaS1pbmZvcm1hdGlvbiNzZXh1YWwtaGFyYXNzbWVudC0tc2V4dWFsLW1pc2NvbmR1Y3QtYW5kLXN1cHBvcnRpdmUtbWVhc3VyZXMpCi0gW0NvbmZsaWN0IFJlc29sdXRpb25dKGh0dHBzOi8vcHJvdm9zdC51aW93YS5lZHUvdGVhY2hpbmctcmVzb3VyY2VzL2NvdXJzZS1zeWxsYWJpLWluZm9ybWF0aW9uI2NvbmZsaWN0LXJlc29sdXRpb24pCi0gW01lbnRhbCBIZWFsdGhdKGh0dHBzOi8vcHJvdm9zdC51aW93YS5lZHUvdGVhY2hpbmctcmVzb3VyY2VzL2NvdXJzZS1zeWxsYWJpLWluZm9ybWF0aW9uI21lbnRhbC1oZWFsdGgpCi0gW0Jhc2ljIE5lZWRzIGFuZCBTdHVkZW50IFN1cHBvcnRdKGh0dHBzOi8vcHJvdm9zdC51aW93YS5lZHUvdGVhY2hpbmctcmVzb3VyY2VzL2NvdXJzZS1zeWxsYWJpLWluZm9ybWF0aW9uI2Jhc2ljLW5lZWRzLWFuZC1zdHVkZW50LXN1cHBvcnQpCi0gW1NoYXJpbmcgb2YgQ2xhc3MgUmVjb3JkaW5nc10oaHR0cHM6Ly9wcm92b3N0LnVpb3dhLmVkdS90ZWFjaGluZy1yZXNvdXJjZXMvY291cnNlLXN5bGxhYmktaW5mb3JtYXRpb24jc2hhcmluZy1vZi1jbGFzcy1yZWNvcmRpbmdzLWlmLWFwcHJvcHJpYXRlKQotIFtBYnNlbmNlcyBmcm9tIENsYXNzXShodHRwczovL3Byb3Zvc3QudWlvd2EuZWR1L3RlYWNoaW5nLXJlc291cmNlcy9jb3Vyc2Utc3lsbGFiaS1pbmZvcm1hdGlvbiNhYnNlbmNlcy1mcm9tLWNsYXNzKQotIFtBYnNlbmNlcyBmb3IgTWlsaXRhcnkgU2VydmljZSBPYmxpZ2F0aW9uc10oaHR0cHM6Ly9wcm92b3N0LnVpb3dhLmVkdS90ZWFjaGluZy1yZXNvdXJjZXMvY291cnNlLXN5bGxhYmktaW5mb3JtYXRpb24jYWJzZW5jZXMtZm9yLW1pbGl0YXJ5LXNlcnZpY2Utb2JsaWdhdGlvbnMpCgojIFdoZXJlIHRvIEdldCBBY2FkZW1pYyBTdXBwb3J0IGZvciBUaGlzIENvdXJzZSB7I2FjYWRlbWljLXN1cHBvcnR9CgotIERyb3AtaW4gc3R1ZHkgZ3JvdXBzIGFuZCBvbmUtb24tb25lIHR1dG9yaW5nOiBkcm9wLWluIHN0dWRlbnQgaG91cnMgb2YgdGhlIDxtYXJrPnVuZGVyZ3JhZHVhdGUgVEEsIGdyYWR1YXRlIFRBLCBhbmQ8L21hcms+IGluc3RydWN0b3IKLSBGb3JtYWwgdHV0b3Jpbmc6IFR1dG9yIElvd2E6IGh0dHBzOi8vdHV0b3IudWlvd2EuZWR1Ci0gVUkgV3JpdGluZyBDZW50ZXI6IGh0dHBzOi8vd3JpdGluZ2NlbnRlci51aW93YS5lZHUKLSBBY2FkZW1pYyBhY2NvbW1vZGF0aW9uczogaHR0cHM6Ly9zZHMuc3R1ZGVudGxpZmUudWlvd2EuZWR1CgojIE1lbnRhbCBIZWFsdGggUmVzb3VyY2VzIGFuZCBTdHVkZW50IFN1cHBvcnQgeyNtZW50YWwtaGVhbHRofQoKU3R1ZGVudHMgYXJlIGVuY291cmFnZWQgdG8gYmUgbWluZGZ1bCBvZiB0aGVpciBtZW50YWwgaGVhbHRoIGFuZCBzZWVrIGhlbHAgYXMgYSBwcmV2ZW50aXZlIG1lYXN1cmUgb3IgaWYgZmVlbGluZyBvdmVyd2hlbG1lZCBhbmQvb3Igc3RydWdnbGluZyB0byBtZWV0IGNvdXJzZSBleHBlY3RhdGlvbnMuClN0dWRlbnRzIGFyZSBlbmNvdXJhZ2VkIHRvIHRhbGsgdG8gdGhlaXIgaW5zdHJ1Y3RvciBmb3IgYXNzaXN0YW5jZSB3aXRoIHNwZWNpZmljIGNsYXNzLXJlbGF0ZWQgY29uY2VybnMuCkZvciBhZGRpdGlvbmFsIHN1cHBvcnQgYW5kIGNvdW5zZWxpbmcsIHN0dWRlbnRzIGFyZSBlbmNvdXJhZ2VkIHRvIGNvbnRhY3QgVW5pdmVyc2l0eSBDb3Vuc2VsaW5nIFNlcnZpY2UgKFVDUykuCkluZm9ybWF0aW9uIGFib3V0IFVDUywgaW5jbHVkaW5nIHJlc291cmNlcyBhbmQgaG93IHRvIHNjaGVkdWxlIGFuIGFwcG9pbnRtZW50LCBjYW4gYmUgZm91bmQgYXQgW2NvdW5zZWxpbmcudWlvd2EuZWR1XShodHRwczovL2NvdW5zZWxpbmcudWlvd2EuZWR1KS4KRmluZCBvdXQgbW9yZSBhYm91dCBVSSBtZW50YWwgaGVhbHRoIHNlcnZpY2VzIGF0IFttZW50YWxoZWFsdGgudWlvd2EuZWR1XShodHRwOi8vbWVudGFsaGVhbHRoLnVpb3dhLmVkdSkuCgpbU3R1ZGVudCBDYXJlIGFuZCBBc3Npc3RhbmNlXShodHRwczovL2Rvcy51aW93YS5lZHUvYXNzaXN0YW5jZSkgcHJvdmlkZXMgYXNzaXN0YW5jZSB0byBVbml2ZXJzaXR5IG9mIElvd2Egc3R1ZGVudHMgd2hvIGFyZSBleHBlcmllbmNpbmcgYSB2YXJpZXR5IG9mIGNyaXNpcyBhbmQgZW1lcmdlbmN5IHNpdHVhdGlvbnMsIGluY2x1ZGluZyBidXQgbm90IGxpbWl0ZWQgdG8gbWVkaWNhbCBpc3N1ZXMsIGZhbWlseSBlbWVyZ2VuY2llcywgdW5leHBlY3RlZCBjaGFsbGVuZ2VzLCBhbmQgc291cmNpbmcgYmFzaWMgbmVlZHMgc3VjaCBhcyBmb29kIGFuZCBzaGVsdGVyLgpNb3JlIGluZm9ybWF0aW9uIG9uIHRoZSByZXNvdXJjZXMgcmVsYXRlZCB0byBiYXNpYyBuZWVkcyBjYW4gYmUgZm91bmQgYXQgW2Jhc2ljbmVlZHMudWlvd2EuZWR1L3Jlc291cmNlc10oaHR0cHM6Ly9iYXNpY25lZWRzLnVpb3dhLmVkdS9yZXNvdXJjZXMpLgpTdHVkZW50cyBhcmUgZW5jb3VyYWdlZCB0byBjb250YWN0IFN0dWRlbnQgQ2FyZSAmIEFzc2lzdGFuY2UgaW4gdGhlIE9mZmljZSBvZiB0aGUgRGVhbiBvZiBTdHVkZW50cyAoUm9vbSAxMzUgSU1VLCBbZG9zLWFzc2lzdGFuY2VAdWlvd2EuZWR1XShkb3MtYXNzaXN0YW5jZUB1aW93YS5lZHUpLCBvciAzMTktMzM1LTExNjIpIGZvciBzdXBwb3J0IGFuZCBhc3Npc3RhbmNlIHdpdGggcmVzb3VyY2VzLgoKSWYgeW91IGZlZWwgdGhhdCB5b3Ugb3Igc29tZW9uZSB5b3Uga25vdyBtYXkgYmUgc3RydWdnbGluZyB3aXRoIGFuIGFjYWRlbWljLCBlbW90aW9uYWwsIG9yIHBzeWNob2xvZ2ljYWwgcHJvYmxlbSwgdGhlIGZvbGxvd2luZyBvcmdhbml6YXRpb25zIGFyZSBhdmFpbGFibGUgZm9yIGFzc2lzdGFuY2U6Cgp8IFNlcnZpY2UgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwgQ29udGFjdCBJbmZvICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8Cnw6LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tfDotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLXwKfCBVbml2ZXJzaXR5IG9mIElvd2EgQWNhZGVtaWMgQWR2aXNpbmcgQ2VudGVyICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8IDM1My01NzAwLCBodHRwczovL2FkdmlzaW5nY2VudGVyLnVpb3dhLmVkdSAgICAgICAgICAgICAgICAgICAgICAgfAp8IFVuaXZlcnNpdHkgQ291bnNlbGluZyBTZXJ2aWNlcyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwgMzM1LTcyOTQsIGh0dHBzOi8vd3d3LnVpb3dhLmVkdS91Y3MgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8CnwgU3R1ZGVudCBIZWFsdGggU2VydmljZSAtIE1lbnRhbCBIZWFsdGggICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfCAzMzUtODM5NCwgaHR0cHM6Ly9zdHVkZW50aGVhbHRoLnVpb3dhLmVkdS9zZXJ2aWNlcy9wc3ljaGlhdHJ5ICAgIHwKfCBVbml2ZXJzaXR5IG9mIElvd2EgSG9zcGl0YWxzIGFuZCBDbGluaWNzIEFkdWx0IFBzeWNoaWF0cnkgU2VydmljZXMgQ2xpbmljICB8IDM1My02MzE0LCBodHRwczovL3d3dy51aWhlYWx0aGNhcmUub3JnL1BzeWNoaWF0cnkgICAgICAgICAgICAgICAgfAp8IFNlYXNob3JlIENsaW5pYyAoaW4gdGhlIFVJIERlcGFydG1lbnQgb2YgUHN5Y2hvbG9naWNhbCBhbmQgQnJhaW4gU2NpZW5jZXMpIHwgMzM1LTI0NjcsIGh0dHBzOi8vcHN5Y2hvbG9neS51aW93YS5lZHUvcmVzb3VyY2VzL3NlYXNob3JlLWNsaW5pYyB8CnwgV29tZW4ncyBSZXNvdXJjZSBhbmQgQWN0aW9uIENlbnRlciAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfCAzMzUtMTQ4NiwgaHR0cHM6Ly93cmFjLnVpb3dhLmVkdSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwKfCBSYXBlIFZpY3RpbSBBZHZvY2FjeSBQcm9ncmFtICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8IDMxOS0zMzUtNjAwMCBvciA4MDAtMjI4LTE2MjUsIGh0dHBzOi8vd3d3LnVpb3dhLmVkdS9+cnZhcCAgICAgICAgfAp8IE9mZmljZSBvZiBTZXh1YWwgTWlzY29uZHVjdCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwgMzE5LTMzNS02MjAwLCBodHRwczovL29zbXJjLnVpb3dhLmVkdSAgICAgICAgICAgICAgICAgICAgICAgICAgICB8CnwgQ29tbVVuaXR5ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfCA4NTUtMzI1LTQyOTYsIGh0dHBzOi8vYnVpbHRieWNvbW11bml0eS5vcmcvY3Jpc2lzICAgICAgICAgICAgICAgIHwKfCBDb21tdW5pdHkgJiBGYW1pbHkgUmVzb3VyY2VzICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8IDM1MS00MzU3LCBodHRwczovL3d3dy5jZnJoZWxwcy5vcmcvICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfAoKPHU+SWYgeW91IG9yIHNvbWVvbmUgeW91IGtub3cgaXMgY29udGVtcGxhdGluZyBzdWljaWRlPC91PiwgZWl0aGVyIGNhbGwgb3IgdGV4dCB0aGUgU3VpY2lkZSBhbmQgQ3Jpc2lzIExpZmVsaW5lIGF0IDk4OCwgb3IgY2FsbCA5MTEuCgojIERpc2NsYWltZXIgeyNkaXNjbGFpbWVyfQoKVGhpcyBzeWxsYWJ1cyBpcyBzdWJqZWN0IHRvIGNoYW5nZS4KQW55IGNoYW5nZXMgd2lsbCBiZSBkaXNjdXNzZWQgaW4gY2xhc3MsIHZpYSBlbWFpbCwgYW5kL29yIG9uIElDT04uCg==</div>
+<script type="text/javascript" src="includes/external-links.js"></script>
+
+
+</div>
+</div>
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+<script>
+$(document).ready(function () {
+  window.initializeSourceEmbed("syllabus.Rmd");
+  window.initializeCodeFolding("hide" === "show");
+});
+</script>
+
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
