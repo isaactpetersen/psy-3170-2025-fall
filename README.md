@@ -1,17 +1,19 @@
-# COURSE NUMBER – COURSE NAME (SEMESTER YEAR); e.g., PSY:2301 - Introduction to Clinical Psychology (Spring 2023)
+# COURSE NUMBER – COURSE NAME (SEMESTER YEAR)
 
 This is the code that creates the template for the Course Wiki.
 The template for the Course Wiki is located here: **https://isaactpetersen.github.io/Course-Wiki-Template**
 
 # License
 
-[![CC BY 4.0][cc-by-shield]][cc-by]
+[![License: GPL v3][gpl-v3-shield]][gpl-v3]
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![CC BY 4.0][cc-by-shield]][gpl-v3]
 
 This work is licensed under a
-[Creative Commons Attribution 4.0 International License][cc-by].
+[GNU General Public License Version 3][gpl-v3].
 
-[![CC BY 4.0][cc-by-image]][cc-by]
+[![GPL v3][gpl-v3-image]][cc-by]
 
-[cc-by]: https://creativecommons.org/licenses/by/4.0/
-[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
-[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+[gpl-v3]: https://www.gnu.org/licenses/gpl-3.0.html
+[gpl-v3-image]: https://www.gnu.org/graphics/gplv3-127x51.png
+[gpl-v3-shield]: https://img.shields.io/badge/License-GPLv3-blue.svg
