@@ -1,4 +1,4 @@
-# COURSE NUMBER – COURSE NAME (SEMESTER YEAR)
+# PSY:COURSE NUMBER – Fantasy Football: Predictive Analytics and Empiricism (SEMESTER YEAR)
 
 This is the code that creates the template for the Course Wiki.
 The template for the Course Wiki is located here: **https://isaactpetersen.github.io/Fantasy-Football-Course/**

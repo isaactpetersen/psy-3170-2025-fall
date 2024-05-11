@@ -1,5 +1,5 @@
 ---
-title: "Wiki for PSY:2301 – Introduction to Clinical Psychology (Spring 2023)"
+title: "Wiki for PSY:COURSE NUMBER – Fantasy Football: Predictive Analytics and Empiricism (SEMESTER YEAR)"
 ---
 
 ```{r setup, include = FALSE}
