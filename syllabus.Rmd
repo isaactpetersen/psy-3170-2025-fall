@@ -149,7 +149,45 @@ In order to take a make-up exam, you must provide acceptable documentation to be
 
 # Tentative Course Outline (exam dates fixed) {#outline}
 
-<mark>INSERT</mark>
+This is a *tentative* course outline.
+Changes will be discussed in class.
+There are 15 weeks in the semester, and class meets twice per week (30 sections).
+We will have one exam during the semester and one final exam during finals week.
+
+| **Section**      | **Day** | **Date** | **Content**                                                                                          |
+|:-----------------|:--------|:---------|:-----------------------------------------------------------------------------------------------------|
+| [1](#section1)   | T       | ??/??    | Overview of Class; Overview of Fantasy Football                                                      |
+| [2](#section2)   | Th      | ??/??    | Statistical Programming: Using R for Statistical Analysis                                            |
+| [3](#section3)   | T       | ??/??    | Player Evaluation                                                                                    |
+| [4](#section4)   | Th      | ??/??    | The Draft                                                                                            |
+| [5](#section5)   | T       | ??/??    | Statistical Programming in R                                                                         |
+| [6](#section6)   | Th      | ??/??    | Basic Statistics                                                                                     |
+| [7](#section7)   | T       | ??/??    | Data Visualization and Interpretation                                                                |
+| [8](#section8)   | Th      | ??/??    | Correlation Analysis                                                                                 |
+| [9](#section9)   | T       | ??/??    | Multiple Regression                                                                                  |
+| [10](#section10) | Th      | ??/??    | Causal Inference                                                                                     |
+| [11](#section11) | T       | ??/??    | Heuristics and Cognitive Biases in Prediction                                                        |
+| [12](#section12) | Th      | ??/??    | Human Judgment vs Actuarial Approaches to Prediction                                                 |
+| [13](#section13) | T       | ??/??    | Base Rates                                                                                           |
+| [14](#section14) | Th      | ??/??    | **Midterm Exam**                                                                                     |
+| [15](#section15) | T       | ??/??    | Evaluation of Prediction/Forecasting Accuracy: Binary Classification                                 |
+| [16](#section16) | Th      | ??/??    | Evaluation of Prediction/Forecasting Accuracy: Binary Classification                                 |
+| [17](#section17) | T       | ??/??    | Evaluation of Prediction/Forecasting Accuracy: Continuous Outcomes                                   |
+| [18](#section18) | Th      | ??/??    | Calibration Accuracy: Overconfidence Bias                                                            |
+| [19](#section19) | T       | ??/??    | Mythbusters: Putting Fantasy Football Beliefs/Anecdotes to the Test                                  |
+| [20](#section20) | Th      | ??/??    | Machine Learning                                                                                     |
+| [21](#section21) | T       | ??/??    | Modern Portfolio Theory                                                                              |
+| [22](#section22) | Th      | ??/??    | Cluster Analysis                                                                                     |
+| [23](#section23) | T       | ??/??    | Factor Analysis                                                                                      |
+| [24](#section24) | Th      | ??/??    | Data Reduction: Principal Component Analysis                                                         |
+| **FALL BREAK – NO CLASSES** | | ??/??–??/?? |                                                                                                |
+| [25](#section25) | T       | ??/??    | Simulation and the Monte Carlo Method                                                                |
+| [26](#section26) | Th      | ??/??    | Time Series Analysis                                                                                 |
+| [27](#section27) | T       | ??/??    | Decision Making in the Context of Uncertainty                                                        |
+| [28](#section28) | Th      | ??/??    | Sports and Cognitive Psychology: Coaching and Risk Aversion                                          |
+| [29](#section29) | T       | ??/??    | Sports and Cognitive Psychology: Expert Performance and Automaticity                                 |
+| [30](#section30) | Th      | ??/??    | Sports and Cognitive Psychology: Psychological Factors in Player Performance; **Final project due!** |
+| Finals Week      |         | TBD (week of 12/??) | **Final Exam**                                                                            |
 
 # Date and Time of the Final Exam {#finalExam}
 
