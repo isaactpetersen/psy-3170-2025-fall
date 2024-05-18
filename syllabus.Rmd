@@ -180,7 +180,7 @@ We will have one exam during the semester and one final exam during finals week.
 | [22](#section22) | Th      | ??/??    | Cluster Analysis                                                                                     |
 | [23](#section23) | T       | ??/??    | Factor Analysis                                                                                      |
 | [24](#section24) | Th      | ??/??    | Data Reduction: Principal Component Analysis                                                         |
-| **FALL BREAK – NO CLASSES** | | ??/??–??/?? |                                                                                                |
+|                  |         | ??/??–??/?? | **FALL BREAK – NO CLASSES**                                                                       |
 | [25](#section25) | T       | ??/??    | Simulation and the Monte Carlo Method                                                                |
 | [26](#section26) | Th      | ??/??    | Time Series Analysis                                                                                 |
 | [27](#section27) | T       | ??/??    | Decision Making in the Context of Uncertainty                                                        |
