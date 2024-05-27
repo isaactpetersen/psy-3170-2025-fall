@@ -64,9 +64,22 @@ But this is no ordinary course...
 Rather than memorizing these empirical approaches in abstraction, students will employ these methods in the active, immersive, hands-on learning laboratory of Fantasy Football.
 In this way, the course will weave together two contiguous threads: an introductory overview of data analysis techniques, and a captivating application of these techniques through a semester-long experience in Fantasy Football with their classmates.[^adapted]
 
+The class involves reading primary source material, applying statistical programming (using `R` software), conducting data analysis, and composing written work on a weekly basis.
+
 The class does not assume that students know anything about (or care about) football or fantasy football.
 The class is welcome to all, assuming the student meets the prerequisites and that they are interested in learning about empiricism (basing theories on observed data), statistics, and judgment, prediction, and decision making in the context of uncertainty.
-*You are urged to reconsider your decision to take this class if you are reluctant to examine these topics in a scientific manner.*
+
+Take this class if:
+
+- you want to learn more advanced skills in 1) empiricism, 2) statistics, 3) programming (using `R` software), and 4) judgment, prediction, and decision making in the context of uncertainty;
+- you are interested in learning statistics through the lens of a fun sports domain (fantasy football); or
+- you are interested in applying psychological and statistical concepts to fantasy football; to gain a strong understanding of critical thinking and decision making in sports.
+
+*You are urged to reconsider your decision to take this class if*:
+
+- you are just looking for an "easy" class (the class is not easy);
+- you are reluctant to examine fantasy football topics in a scientific manner; or
+- you do not want to learn statistics and programming, and do not want to persist through inevitable challenges along the way.
 
 [^adapted]:
     Elements of this syllabus and course were borrowed and adapted (with permission) from a similar course by Benjamin Motz.
@@ -91,7 +104,7 @@ By the end of the course, successful students will be able to:
 - Understand causal inference including confounding, causal pathways, and counterfactuals.
 - Think empirically about human behavior and performance.
 - Describe the strengths and weaknesses of humans versus computers in prediction scenarios.
-- Apply basic skills in statistical programming to manipulate and summarize datasets and to conduct data analysis.
+- Apply basic skills in statistical programming using `R` to manipulate and summarize datasets and to conduct data analysis.
 - Critically evaluate the strengths and limitations of different statistical models and methodologies used in predicting uncertain events, enhancing their understanding of statistical inference and model selection.
 - Use various analytical techniques for predicting the outcome of uncertain events, and for uncovering latent causes of patterns in observed data.
 - Interpret findings from various statistical approaches and evaluate the accuracy of predictions.
@@ -157,10 +170,10 @@ We will have one exam during the semester and one final exam during finals week.
 | **Section**      | **Day** | **Date** | **Content**                                                                                          |
 |:-----------------|:--------|:---------|:-----------------------------------------------------------------------------------------------------|
 | [1](#section1)   | T       | ??/??    | Overview of Class; Overview of Fantasy Football                                                      |
-| [2](#section2)   | Th      | ??/??    | Statistical Programming: Using R for Statistical Analysis                                            |
+| [2](#section2)   | Th      | ??/??    | Statistical Programming: Using `R` for Statistical Analysis                                          |
 | [3](#section3)   | T       | ??/??    | Player Evaluation                                                                                    |
 | [4](#section4)   | Th      | ??/??    | The Draft                                                                                            |
-| [5](#section5)   | T       | ??/??    | Statistical Programming in R                                                                         |
+| [5](#section5)   | T       | ??/??    | Statistical Programming in `R`                                                                       |
 | [6](#section6)   | Th      | ??/??    | Basic Statistics                                                                                     |
 | [7](#section7)   | T       | ??/??    | Data Visualization and Interpretation                                                                |
 | [8](#section8)   | Th      | ??/??    | Correlation Analysis                                                                                 |
