@@ -16,7 +16,7 @@ COURSE NUMBER – COURSE NAME (SEMESTER YEAR)
 
 # Course Meeting Time and Place {#lectureTime}
 
-<mark>INSERT</mark>
+<u>INSERT</u>
 
 # Course Website {#website}
 
@@ -52,7 +52,13 @@ Chair of Department: Professor Blumberg ([mark-blumberg@uiowa.edu](mailto:mark-b
 
 # Prerequisites {#prereqs}
 
-<mark>INSERT</mark>
+The Department of Psychological and Brain Sciences has a hierarchical course structure that requires students to complete certain prerequisite courses before taking upper-level courses.
+This course requires successful completion (C- or higher) of any of the following statistics courses (or AP Statistics from high school):
+PSY 2811, PSQF 1020, PSQF 4143, STAT 1010, STAT 1015, STAT 1020, STAT 1030, STAT 3510, STAT 4143
+The department will check student records to ensure completion of course prerequisites.
+
+Any of the following courses with a minimum grade of C- (or AP stats from high school):
+PSY 2811, PSQF 1020, PSQF 4143, STAT 1010, STAT 1015, STAT 1020, STAT 1030, STAT 3510, STAT 4143
 
 # Description of Course {#description}
 
@@ -113,16 +119,19 @@ By the end of the course, successful students will be able to:
 - Make sense of big data.
 - Use practical analytical skills that can be applied in future research and job settings.
 
-# Required Textbook {#textbook}
+# Textbook {#textbook}
 
-<mark>INSERT</mark>
+The cost of textbooks has become so high that I do not feel comfortable requiring students to purchase a textbook.
+Thus, I created a textbook for this course.
+The textbook for this course is available <u>for free</u> online:
+https://isaactpetersen.github.io/Fantasy-Football-Analytics-Textbook
 
 # Academic Honesty and Misconduct {#academicHonesty}
 
 All students in CLAS courses are expected to abide by the [CLAS Code of Academic Honesty](https://clas.uiowa.edu/students/handbook/academic-fraud-honor-code).
 Academic misconduct must be reported by instructors to CLAS according to [these procedures](https://clas.uiowa.edu/students/handbook/academic-fraud-honor-code).
-Please note that collaboration with other classmates on <mark>INSERT</mark> is not permitted.
-However, I do encourage you to collaborate with classmates on <mark>INSERT</mark>.
+Please note that collaboration with other classmates on <u>INSERT</u> is not permitted.
+However, I do encourage you to collaborate with classmates on <u>INSERT</u>.
 Because writing, analytical, and critical thinking skills are part of the learning outcomes of this course, all work submitted by students should be prepared by the student.
 Developing strong competencies in these domains will prepare you for a competitive workplace.Therefore, AI-generated submissions are not permitted and will be treated as plagiarism.
 
@@ -130,35 +139,35 @@ Developing strong competencies in these domains will prepare you for a competiti
 
 ## Lecture {#lecture}
 
-<mark>INSERT</mark>
+<u>INSERT</u>
 
 ## Discussion Section {#discussionSection}
 
-<mark>INSERT</mark>
+<u>INSERT</u>
 
 ## Attendance and Participation {#attendanceParticipation}
 
-<mark>INSERT</mark>
+<u>INSERT</u>
 
 ## Readings & Quizzes {#readingQuizzes}
 
-<mark>INSERT</mark>
+<u>INSERT</u>
 
 ## Examinations {#exams}
 
-<mark>INSERT</mark>
+<u>INSERT</u>
 
 ### Missing Exams {#missingExams}
 
 Students are allowed to make up exams that have been missed due to illness, mandatory religious observations, official University activities, or other unavoidable circumstances.
 Note: the format of the make-up exam may differ from the original exam.
-If you know that you must be away at the time of an exam for one of these reasons, Professor Petersen <mark>or the TA</mark> must be contacted in advance whenever possible to schedule a make-up exam.
+If you know that you must be away at the time of an exam for one of these reasons, Professor Petersen <u>or the TA</u> must be contacted in advance whenever possible to schedule a make-up exam.
 In order to take a make-up exam, you must provide acceptable documentation to be eligible to take it: including documentation for any report of illness; any other circumstances must be documented by the University of Iowa [Absence Explanation Form](https://clas.uiowa.edu/faculty/student-attendance-and-absences) and must be approved by Professor Petersen.
-<u>In sum, to be eligible for a make-up exam, Professor Petersen <mark>or the TA</mark> must be contacted before the examination whenever possible, and you must send acceptable form of documentation to Professor Petersen <mark>or the TA</mark></u>.
+<u>In sum, to be eligible for a make-up exam, Professor Petersen <u>or the TA</u> must be contacted before the examination whenever possible, and you must send acceptable form of documentation to Professor Petersen <u>or the TA</u></u>.
 
 # Grading {#grading}
 
-<mark>INSERT</mark>
+<u>INSERT</u>
 
 # Tentative Course Outline (exam dates fixed) {#outline}
 
@@ -213,7 +222,7 @@ According to Registrar's final exam policy, students <u>have a maximum of two we
 
 There are many course resources available to help you succeed in the class, including:
 
-- <mark>INSERT</mark>
+- <u>INSERT</u>
 
 # Drop Deadline for this Course {#dropDeadline}
 
@@ -286,7 +295,7 @@ The LOA will specify what reasonable course accommodations the student is eligib
 
 # Where to Get Academic Support for This Course {#academic-support}
 
-- Drop-in study groups and one-on-one tutoring: drop-in student hours of the <mark>undergraduate TA, graduate TA, and</mark> instructor
+- Drop-in study groups and one-on-one tutoring: drop-in student hours of the <u>undergraduate TA, graduate TA, and</u> instructor
 - Formal tutoring: Tutor Iowa: https://tutor.uiowa.edu
 - UI Writing Center: https://writingcenter.uiowa.edu
 - Academic accommodations: https://sds.studentlife.uiowa.edu
