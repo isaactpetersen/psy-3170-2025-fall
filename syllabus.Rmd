@@ -12,7 +12,7 @@ Last Updated: `r format(Sys.Date(), "%m/%d/%Y")`
 
 # Course Title {#title}
 
-PSY:3170 – Fantasy Football: Predictive Analytics and Empiricism (SEMESTER YEAR)
+PSY:3170 – Fantasy Football: Predictive Analytics and Empiricism (Fall 2025)
 
 # Course Meeting Time and Place {#lectureTime}
 

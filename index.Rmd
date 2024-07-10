@@ -1,5 +1,5 @@
 ---
-title: "Wiki for PSY:3170 – Fantasy Football: Predictive Analytics and Empiricism (SEMESTER YEAR)"
+title: "Wiki for PSY:3170 – Fantasy Football: Predictive Analytics and Empiricism (Fall 2025)"
 ---
 
 ```{r setup, include = FALSE}

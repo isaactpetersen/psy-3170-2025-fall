@@ -20,7 +20,7 @@ output:
       - "includes/footer.html"
 new_session: true
 navbar:
-  title: "Class Wiki for COURSE NAME (SEMESTER YEAR)"
+  title: "Class Wiki for Fantasy Football: Predictive Analytics and Empiricism (Fall 2025)"
   left:
     - text: "Course Syllabus"
       href: syllabus.html
