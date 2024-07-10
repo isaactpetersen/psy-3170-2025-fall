@@ -12,7 +12,7 @@ Last Updated: `r format(Sys.Date(), "%m/%d/%Y")`
 
 # Course Title {#title}
 
-COURSE NUMBER – COURSE NAME (SEMESTER YEAR)
+PSY:3170 – Fantasy Football: Predictive Analytics and Empiricism (SEMESTER YEAR)
 
 # Course Meeting Time and Place {#lectureTime}
 
