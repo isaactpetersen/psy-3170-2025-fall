@@ -1,7 +1,7 @@
 # PSY:3170 – Fantasy Football: Predictive Analytics and Empiricism (SEMESTER YEAR)
 
-This is the code that creates the template for the Course Wiki.
-The template for the Course Wiki is located here: **https://isaactpetersen.github.io/Fantasy-Football-Course/**
+This is the code that creates the Wiki for PSY:3170 – Fantasy Football: Predictive Analytics and Empiricism (SEMESTER YEAR). 
+The Class Wiki is located here: **https://isaactpetersen.github.io/Fantasy-Football-Course/**
 
 # License
 
