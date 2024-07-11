@@ -81,7 +81,7 @@ Take this class if:
 
 - you want to learn more advanced skills in 1) empiricism, 2) statistics, 3) programming (using `R` software), and 4) judgment, prediction, and decision making in the context of uncertainty;
 - you are interested in learning statistics through the lens of a fun sports domain (fantasy football); or
-- you are interested in applying psychological and statistical concepts to fantasy football; to gain a strong understanding of critical thinking and decision making in sports.
+- you are interested in applying psychological and statistical concepts to fantasy football, to gain a strong understanding of critical thinking and decision making in sports.
 
 *Do not take this class if*:
 
