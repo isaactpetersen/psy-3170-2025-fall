@@ -177,13 +177,17 @@ In order to take a make-up exam, you must provide acceptable documentation to be
 
 <u>INSERT</u>
 
+<u>Extra credit:</u>
+
 I will give you 0.5 point extra credit if you 1) identify an issue in the [course textbook](https://isaactpetersen.github.io/Fantasy-Football-Analytics-Textbook) that needs to be fixed or 2) make a <u>specific</u> suggestion for a way to improve the [textbook](https://isaactpetersen.github.io/Fantasy-Football-Analytics-Textbook) and its usefulness to you or other students.
+For instance, to identify an issue that needs to be addressed, you could identify a typo, misspelling, grammatical issue, or (gasp), a mistake/error.
 To receive the extra credit, [create a new issue](https://github.com/isaactpetersen/Fantasy-Football-Analytics-Textbook/issues) in the [textbook's GitHub repository](https://github.com/isaactpetersen/Fantasy-Football-Analytics-Textbook), and email me after doing so.
 I will give you an additional 0.5 point extra credit (for 1-point extra in total) if you implement the fixes/suggestions you specify.
 To receive the extra credit for implementing the fix/suggestion, [create a pull request](https://github.com/isaactpetersen/Fantasy-Football-Analytics-Textbook/pulls) with your changes, and email me after doing so.
 For instructions regarding how to create a pull request, see [here](https://devpsylab.github.io/DataAnalysis/git.html#pull-request).
 If you are going to implement a change, I strongly encourage you to discuss with me before doing so, so I can verify that the change is worth implementing.
 I reserve the right to determine whether the "fix", suggestion, or implementation warrants extra credit!
+No additional extra-credit opportunities are available for this course.
 
 # Tentative Course Outline (exam dates fixed) {#outline}
 
