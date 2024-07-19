@@ -202,8 +202,7 @@ For example, a course percent of 79.50 would receive a B-, whereas a course perc
 The relative contribution of each component to your final grade is as follows:
 
  - X%	Examination #1
- - X%	Examination #2
- - X%	Examination #3 (administered only during the class's Final Exam time slot)
+ - X%	Examination #2 (administered only during the class's Final Exam time slot)
  - X% 	Attendance/Participation
  - X% 	Reading Quizzes
  - X%   Writing Assignments
