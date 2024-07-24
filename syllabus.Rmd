@@ -136,7 +136,8 @@ Academic misconduct must be reported by instructors to CLAS according to [these 
 Please note that collaboration with other classmates on <u>INSERT</u> is not permitted.
 However, I do encourage you to collaborate with classmates on <u>INSERT</u>.
 Because writing, analytical, and critical thinking skills are part of the learning outcomes of this course, all work submitted by students should be prepared by the student.
-Developing strong competencies in these domains will prepare you for a competitive workplace.Therefore, AI-generated submissions are not permitted and will be treated as plagiarism.
+Developing strong competencies in these domains will prepare you for a competitive workplace.
+Therefore, AI-generated submissions are not permitted and will be treated as plagiarism.
 
 # Course Requirements and Policies {#requirements}
 
