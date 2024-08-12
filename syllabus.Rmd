@@ -182,13 +182,20 @@ A blog article is not considered "submitted" until you (a) post the blog article
 All blog articles should be submitted to [ICON](https://icon.uiowa.edu) by 11:59 p.m. on the due date.
 
 You are encouraged to submit your blog article <u>well before</u> the deadline.
-You should expect to run into technical issues (e.g., errors when running your code, issues getting the blog post to compile etc.) and should give yourself plenty of time to troubleshoot.
-If you run into issues, I encourage you to try one (or more) of the following:
+<u>You can expect to run into technical issues</u> (e.g., errors when running your code, issues getting the blog post to compile etc.).
+Thus, you should give yourself plenty of time to [troubleshoot](#troubleshooting) (see below) so that you can submit your blog article on time.
+
+### Troubleshooting {#troubleshooting}
+
+If you run into issues related to `R`, `GitHub`, or your code, I encourage you to try one (or more) of the following:
 
 - Perform a Google search for the error/issue
 - Ask a peer
-- Post on forums dedicated to `R`: https://isaactpetersen.github.io/Fantasy-Football-Analytics-Textbook/getting-started.html#sec-gettingHelpR
+- Post on [forums dedicated to `R`](https://isaactpetersen.github.io/Fantasy-Football-Analytics-Textbook/getting-started.html#sec-gettingHelpR)
 - Come to office hours
+
+I am quite busy, and I appreciate your making every effort to solve the issue on your own or using one of the aforementioned ways before emailing me.
+I do not often respond to emails during evenings or weekends, and I cannot be expected to solve last-minute issues that you could have solved earlier.
 
 ## Readings & Quizzes {#readingQuizzes}
 
