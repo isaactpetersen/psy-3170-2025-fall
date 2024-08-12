@@ -133,8 +133,8 @@ https://isaactpetersen.github.io/Fantasy-Football-Analytics-Textbook
 
 All students in CLAS courses are expected to abide by the [college's standards of academic honesty](https://clas.uiowa.edu/students/handbook/academic-fraud-honor-code).
 Academic misconduct must be reported by instructors to CLAS according to [these procedures](https://policy.clas.uiowa.edu/clas-policies-and-procedures/undergraduate-education/academic-misconduct-undergraduate).
-Please note that collaboration with other classmates on <u>INSERT</u> is not permitted.
-However, I do encourage you to collaborate with classmates on <u>INSERT</u>.
+Please note that collaboration with other classmates on <u>quizzes, writing assignments, and during exams</u> is not permitted.
+However, I do encourage you to collaborate with classmates to to learn `R`, statistics, and programming, and to *prepare* for exams (e.g., informal study groups).
 Because writing, analytical, and critical thinking skills are part of the learning outcomes of this course, all work submitted by students should be prepared by the student.
 Developing strong competencies in these domains will prepare you for a competitive workplace.
 Therefore, AI-generated submissions are not permitted and will be treated as plagiarism.
@@ -143,24 +143,84 @@ Therefore, AI-generated submissions are not permitted and will be treated as pla
 
 ## Lecture {#lecture}
 
-<u>INSERT</u>
+We will meet two times weekly for lectures, at the time and location described [above](#lectureTime).
+My powerpoint presentations for the lectures will be posted on [ICON](https://icon.uiowa.edu) no later than noon on the day before the lecture (though I may continue to refine the slides up until the time of lecture).
+<u>Please note:</u> powerpoint presentations are an outline of my points. 
+<u>It is your responsibility to take notes during class.</u>
+If you have questions about the lecture notes or need clarification of any of the points, please ask in class or meet with <mark>the TA or</mark> Professor Petersen during office hours.
+If you miss a lecture, get and review notes with a peer and watch the lecture recording.
+Then, come to office hours if you have specific questions.
+
+### Lecture Recordings {#recordings}
+
+My intention is to record lectures so that you may review them.
+Recorded lectures will be posted on the "UICapture" tab in [ICON](https://icon.uiowa.edu).
+However, <u>please do not count on recordings being available</u>, in case I accidentally forget to initiate the recording or there is a technical malfunction.
 
 ## Attendance and Participation {#attendanceParticipation}
 
-<u>INSERT</u>
+Attendance at lectures is required and will be factored into final grades (see grading section [below](#courseGrades)).
+There are 29 lectures during the semester (excluding the examinations).
+You will receive one point for attendance at each lecture up to 27 points (i.e., you will not receive extra credit for attending all 29 lectures).
+<u>Thus, you will not be penalized for missing up to 2 lectures.
+However, you will be responsible for learning any material missed for quizzes and exams, and I strongly encourage you to attend all lectures.
+Poor lecture attendance is likely to affect the quality of students' work and success in the course.</u>
+
+Students who miss <u>more than 2 lectures</u> due to participation in University activities must give the instructor a statement <u>before the absence</u> signed by a responsible official that specifies the dates and times the student will miss class.
+Authorized activities include participation in athletic teams, the marching band or pep band, debate teams, and other recognized University groups, as well as participation in University field trips, service with the National Guard, and jury duty.
+Absences due to illnesses or emergencies (that go over 2 lectures) must be documented with the University of Iowa [Absence Explanation Form](https://clas.uiowa.edu/faculty/student-attendance-and-absences) and sent to <mark>the TA or</mark> Professor Petersen within 48 hours of the absence.
+Per university policy, if a student will be absent <u>5 or more consecutive days and the absence is due to illness or other emergency</u>, please contact the Registrar Service Center at (319) 384-4300 or registrar@uiowa.edu.
 
 ## Blog Articles {#blogArticles}
 
 As part of the class, you will post blog articles.
 <u>The blog articles are public</u>; <u>do not take this course if you do not feel comfortable posting blog articles with your full name in a public forum</u>.
+You will post X articles.
+There will be a penalty of 20% for all blog articles turned in late.
+Your lowest score will be dropped.
+A blog article is not considered "submitted" until you (a) post the blog article so that it is live and publicly available AND (b) submit the assignment on [ICON](https://icon.uiowa.edu) with the URL link to your blog article.
+All blog articles should be submitted to [ICON](https://icon.uiowa.edu) by 11:59 p.m. on the due date.
+
+You are encouraged to submit your blog article <u>well before</u> the deadline.
+You should expect to run into technical issues (e.g., errors when running your code, issues getting the blog post to compile etc.) and should give yourself plenty of time to troubleshoot.
+If you run into issues, I encourage you to try one (or more) of the following:
+
+- Perform a Google search for the error/issue
+- Ask a peer
+- Post on forums dedicated to `R`: https://isaactpetersen.github.io/Fantasy-Football-Analytics-Textbook/getting-started.html#sec-gettingHelpR
+- Come to office hours
 
 ## Readings & Quizzes {#readingQuizzes}
 
-<u>INSERT</u>
+Readings and other materials will be posted on [ICON](https://icon.uiowa.edu).
+You are expected to do the readings before class.
+You will have an online quiz on the readings to complete in [ICON](https://icon.uiowa.edu), on your own, <u>before</u> each lecture.
+The quizzes are meant to help you come to class prepared to contribute so you are best-positioned to learn and to help others learn.
+The quizzes are not timed (you can spend as much time as you need on each quiz up until the deadline).
+The deadline for each quiz is 30 minutes before class starts.
+Late responses and multiple submissions will not be accepted.
+Your lowest quiz score will be dropped.
+We will not accept excused absences for quizzes because (a) you have a week to complete the quiz (and can submit it at any point during that week), and (b) we drop your lowest quiz score.
+Each quiz will be weighted the same in the final grade.
+Quiz answers will be viewable at the end of the week (i.e., after the last discussion section has taken their quiz).
+
+Past experience has shown that in order to do well in this class, you should read the required material, participate actively in class, and go over your notes <u>each week</u>.
+There is too much material being covered in this class to try to study only by frantic preparation immediately before exams.
+Note that lecture will <u>not</u> cover all relevant material for the course; you will be expected to know the <u>required</u> readings for exams.
+
+## Workload {#workload}
+
+This is a 3 semester hour course.
+Students should therefore expect to spend [6 additional hours per week](https://clas.uiowa.edu/faculty/student-workload-guidelines) (outside of class) reading the articles, reviewing material from lecture and discussion section, and preparing for quizzes and exams.
 
 ## Examinations {#exams}
 
-<u>INSERT</u>
+There will be 2 exams; one mid-term exam and one non-cumulative final exam.
+Each exam will emphasize information presented for the half of the class that precedes it.
+However, some integration of information across sections will be required for questions on the second and third exams.
+The exams will include multiple-choice questions.
+Exam questions can come from <u>any of the following sources: lectures or required readings</u>.
+For suggested study tips for this class, meet with Professor Petersen during office hours.
 
 ### Missing Exams {#missingExams}
 
@@ -206,11 +266,11 @@ For example, a course percent of 79.50 would receive a B-, whereas a course perc
 Final course grades will be assessed based on your performance in the activities below.
 The relative contribution of each component to your final grade is as follows:
 
- - X%	Examination #1
- - X%	Examination #2 (administered only during the class's Final Exam time slot)
- - X% 	Attendance/Participation
- - X% 	Reading Quizzes
- - X%   Writing Assignments
+ - 25%	Examination #1
+ - 25%	Examination #2 (administered only during the class's Final Exam time slot)
+ - 10% 	Attendance/Participation
+ - 10% 	Reading Quizzes
+ - 30%  Writing Assignments
 
 <u>Extra credit:</u>
 
@@ -222,6 +282,7 @@ To receive the extra credit for implementing the fix/suggestion, [create a pull 
 For instructions regarding how to create a pull request, see [here](https://devpsylab.github.io/DataAnalysis/git.html#pull-request).
 If you are going to implement a change, I strongly encourage you to discuss with me before doing so, so I can verify that the change is worth implementing.
 I reserve the right to determine whether the "fix", suggestion, or implementation warrants extra credit!
+The extra credit must be completed by the last day of class.
 
 In addition, the winner(s) of the class fantasy football league will get 1 point extra credit.
 No additional extra-credit opportunities are available for this course.
@@ -233,40 +294,40 @@ Changes will be discussed in class.
 There are 15 weeks in the semester, and class meets twice per week (30 sections).
 We will have one exam during the semester and one final exam during finals week.
 
-| **Section**      | **Day** | **Date** | **Content**                                                                                          |
-|:-----------------|:--------|:---------|:-----------------------------------------------------------------------------------------------------|
-| [1](#section1)   | T       | ??/??    | Overview of Class; Overview of Fantasy Football                                                      |
-| [2](#section2)   | Th      | ??/??    | Statistical Programming: Using `R` for Statistical Analysis                                          |
-| [3](#section3)   | T       | ??/??    | Player Evaluation                                                                                    |
-| [4](#section4)   | Th      | ??/??    | The Draft                                                                                            |
-| [5](#section5)   | T       | ??/??    | Statistical Programming in `R`                                                                       |
-| [6](#section6)   | Th      | ??/??    | Basic Statistics                                                                                     |
-| [7](#section7)   | T       | ??/??    | Data Visualization and Interpretation                                                                |
-| [8](#section8)   | Th      | ??/??    | Correlation Analysis                                                                                 |
-| [9](#section9)   | T       | ??/??    | Multiple Regression                                                                                  |
-| [10](#section10) | Th      | ??/??    | Causal Inference                                                                                     |
-| [11](#section11) | T       | ??/??    | Heuristics and Cognitive Biases in Prediction                                                        |
-| [12](#section12) | Th      | ??/??    | Human Judgment vs Actuarial Approaches to Prediction                                                 |
-| [13](#section13) | T       | ??/??    | Base Rates                                                                                           |
-| [14](#section14) | Th      | ??/??    | **Midterm Exam**                                                                                     |
-| [15](#section15) | T       | ??/??    | Evaluation of Prediction/Forecasting Accuracy: Binary Classification                                 |
-| [16](#section16) | Th      | ??/??    | Evaluation of Prediction/Forecasting Accuracy: Binary Classification                                 |
-| [17](#section17) | T       | ??/??    | Evaluation of Prediction/Forecasting Accuracy: Continuous Outcomes                                   |
-| [18](#section18) | Th      | ??/??    | Calibration Accuracy: Overconfidence Bias                                                            |
-| [19](#section19) | T       | ??/??    | Mythbusters: Putting Fantasy Football Beliefs/Anecdotes to the Test                                  |
-| [20](#section20) | Th      | ??/??    | Machine Learning                                                                                     |
-| [21](#section21) | T       | ??/??    | Modern Portfolio Theory                                                                              |
-| [22](#section22) | Th      | ??/??    | Cluster Analysis                                                                                     |
-| [23](#section23) | T       | ??/??    | Factor Analysis                                                                                      |
-| [24](#section24) | Th      | ??/??    | Data Reduction: Principal Component Analysis                                                         |
-|                  |         | ??/??–??/?? | **FALL BREAK – NO CLASSES**                                                                       |
-| [25](#section25) | T       | ??/??    | Simulation and the Monte Carlo Method                                                                |
-| [26](#section26) | Th      | ??/??    | Time Series Analysis                                                                                 |
-| [27](#section27) | T       | ??/??    | Decision Making in the Context of Uncertainty                                                        |
-| [28](#section28) | Th      | ??/??    | Sports and Cognitive Psychology: Coaching and Risk Aversion                                          |
-| [29](#section29) | T       | ??/??    | Sports and Cognitive Psychology: Expert Performance and Automaticity                                 |
-| [30](#section30) | Th      | ??/??    | Sports and Cognitive Psychology: Psychological Factors in Player Performance; **Final project due!** |
-| Finals Week      |         | TBD (week of 12/??) | **Final Exam**                                                                            |
+| **Section**      | **Day** | **Date** | **Content**                                                                  | Reading                             | Assignment                            |
+|:-----------------|:--------|:---------|:-----------------------------------------------------------------------------|:------------------------------------|:--------------------------------------|
+| [1](#section1)   | T       | 08/26    | Overview of Class; Overview of Fantasy Football                              | Ch 1–2                              |                                       |
+| [2](#section2)   | Th      | 08/28    | Statistical Programming: Using `R` for Statistical Analysis                  | Ch 3                                |                                       |
+| [3](#section3)   | T       | 09/02    | Player Evaluation                                                            | Ch 6                                | **Set up blog; post welcome article** |
+| [4](#section4)   | Th      | 09/04    | The Draft                                                                    | Ch 7                                |                                       |
+| [5](#section5)   | T       | 09/09    | Statistical Programming in `R`                                               | Ch 4                                |                                       |
+| [6](#section6)   | Th      | 09/11    | Basic Statistics                                                             | Ch 8–9                              | **Blog article 1 due!**               |
+| [7](#section7)   | T       | 09/16    | Data Visualization and Interpretation                                        | Ch 5                                |                                       |
+| [8](#section8)   | Th      | 09/18    | Correlation Analysis                                                         | Ch 10                               | **Blog article 2 due!**               |
+| [9](#section9)   | T       | 09/23    | Multiple Regression and Mixed Models                                         | Ch 11–12                            |                                       |
+| [10](#section10) | Th      | 09/25    | Causal Inference                                                             | Ch 13                               | **Blog article 3 due!**               |
+| [11](#section11) | T       | 09/30    | Heuristics and Cognitive Biases in Prediction                                | Ch 14                               |                                       |
+| [12](#section12) | Th      | 10/02    | Human Judgment vs Actuarial Approaches to Prediction                         | Ch 15                               | **Blog article 4 due!**               |
+| [13](#section13) | T       | 10/07    | Base Rates                                                                   | Ch 16                               |                                       |
+| [14](#section14) | Th      | 10/09    | **Midterm Exam**                                                             |                                     |                                       |
+| [15](#section15) | T       | 10/14    | Evaluation of Prediction/Forecasting Accuracy: Binary Classification         | Ch 17 (Section 17.1–17.16.5)        |                                       |
+| [16](#section16) | Th      | 10/16    | Evaluation of Prediction/Forecasting Accuracy: Binary Classification         | Ch 17 (Section 17.6.6–17.6.8)       |                                       |
+| [17](#section17) | T       | 10/21    | Evaluation of Prediction/Forecasting Accuracy: Continuous Outcomes           | Ch 17 (Section 17.7–end of chapter) | **Blog article 5 due!**               |
+| [18](#section18) | Th      | 10/23    | Calibration Accuracy: Overconfidence Bias                                    | Ch 17 (Section 17.7–end of chapter) |                                       |
+| [19](#section19) | T       | 10/28    | Mythbusters: Putting Fantasy Football Beliefs/Anecdotes to the Test          | Sections 14.4.1, 17.7.3             | **Blog article 6 due!**               |
+| [20](#section20) | Th      | 10/30    | Machine Learning                                                             | Ch 18                               |                                       |
+| [21](#section21) | T       | 11/04    | Modern Portfolio Theory                                                      | Ch 19                               | **Blog article 7 due!**               |
+| [22](#section22) | Th      | 11/06    | Cluster Analysis                                                             | Ch 20                               |                                       |
+| [23](#section23) | T       | 11/11    | Factor Analysis                                                              | Ch 21                               | **Blog article 8 due!**               |
+| [24](#section24) | Th      | 11/13    | Data Reduction: Principal Component Analysis                                 | Ch 22                               |                                       |
+| [25](#section25) | T       | 11/18    | Simulation and the Monte Carlo Method                                        | Ch 23                               | **Blog article 9 due!**               |
+| [26](#section26) | Th      | 11/20    | Time Series Analysis                                                         | Ch 24                               |                                       |
+|                  |         | 11/24–11/27 | **FALL BREAK – NO CLASSES**                                               |                                     |                                       |
+| [27](#section27) | T       | 12/02    | Decision Making in the Context of Uncertainty                                | Ch 25                               | **Blog article 10 due!**              |
+| [28](#section28) | Th      | 12/04    | Sports and Cognitive Psychology: Coaching and Risk Aversion                  | Ch 26                               |                                       |
+| [29](#section29) | T       | 12/09    | Sports and Cognitive Psychology: Expert Performance and Automaticity         | Ch 26                               |                                       |
+| [30](#section30) | Th      | 12/11    | Sports and Cognitive Psychology: Psychological Factors in Player Performance | Ch 26                               | **Blog article 11 due!**              |
+| Finals Week      |         | TBD (week of 12/15) | **Final Exam**                                                    |                                     |                                       |
 
 # Date and Time of the Final Exam {#finalExam}
 
@@ -279,7 +340,14 @@ According to Registrar's final exam policy, students <u>have a maximum of two we
 
 There are many course resources available to help you succeed in the class, including:
 
-- <u>INSERT</u>
+- Powerpoint slides for lecture
+- getting and reviewing missed notes from a peer
+- [lecture recordings](#recordings)
+- the [course textbook](https://isaactpetersen.github.io/Fantasy-Football-Analytics-Textbook) and assigned readings
+- review your reading quizzes and the answers
+- instructor office hours
+- peer study groups
+- Tutor Iowa: https://tutor.uiowa.edu
 
 # Drop Deadline for this Course {#dropDeadline}
 
