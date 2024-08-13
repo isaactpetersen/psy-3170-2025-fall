@@ -16,7 +16,7 @@ PSY:3170 – Fantasy Football: Predictive Analytics and Empiricism (Fall 2025)
 
 # Course Meeting Time and Place {#lectureTime}
 
-<u>INSERT</u>
+<mark>INSERT</mark>
 
 # Course Website {#website}
 
@@ -278,7 +278,7 @@ The relative contribution of each component to your final grade is as follows:
  - 10% 	Reading Quizzes
  - 30%  Writing Assignments
 
-<u>Extra credit:</u>
+## Extra Credit {#extraCredit}
 
 I will give you 0.5 point extra credit if you 1) identify an issue in the [course textbook](https://isaactpetersen.github.io/Fantasy-Football-Analytics-Textbook) that needs to be fixed or 2) make a <u>specific</u> suggestion for a way to improve the [textbook](https://isaactpetersen.github.io/Fantasy-Football-Analytics-Textbook) and its usefulness to you or other students.
 For instance, to identify an issue that needs to be addressed, you could identify a typo, misspelling, grammatical issue, or (gasp), a mistake/error.
