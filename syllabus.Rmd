@@ -321,18 +321,18 @@ We will have one exam during the semester and one final exam during finals week.
 | [17](#section17) | T       | 10/21    | Evaluation of Prediction/Forecasting Accuracy: Continuous Outcomes           | Ch 17 (Section 17.7–end of chapter) | **Blog article 5 due!**               |
 | [18](#section18) | Th      | 10/23    | Calibration Accuracy: Overconfidence Bias                                    | Kahneman & Tversky (1996); Massey & Thaler (2013) |                         |
 | [19](#section19) | T       | 10/28    | Mythbusters: Putting Fantasy Football Beliefs/Anecdotes to the Test          | Ch 18; White & Sheldon (2014)       | **Blog article 6 due!**               |
-| [20](#section20) | Th      | 10/30    | Machine Learning                                                             | Ch 18                               |                                       |
-| [21](#section21) | T       | 11/04    | Modern Portfolio Theory                                                      | Ch 19                               | **Blog article 7 due!**               |
-| [22](#section22) | Th      | 11/06    | Cluster Analysis                                                             | Ch 20                               |                                       |
-| [23](#section23) | T       | 11/11    | Factor Analysis                                                              | Ch 21                               | **Blog article 8 due!**               |
-| [24](#section24) | Th      | 11/13    | Data Reduction: Principal Component Analysis                                 | Ch 22                               |                                       |
-| [25](#section25) | T       | 11/18    | Simulation and the Monte Carlo Method                                        | Ch 23                               | **Blog article 9 due!**               |
-| [26](#section26) | Th      | 11/20    | Time Series Analysis                                                         | Ch 24                               |                                       |
+| [20](#section20) | Th      | 10/30    | Machine Learning                                                             | Ch 19                               |                                       |
+| [21](#section21) | T       | 11/04    | Modern Portfolio Theory                                                      | Ch 20                               | **Blog article 7 due!**               |
+| [22](#section22) | Th      | 11/06    | Cluster Analysis                                                             | Ch 21                               |                                       |
+| [23](#section23) | T       | 11/11    | Factor Analysis                                                              | Ch 22                               | **Blog article 8 due!**               |
+| [24](#section24) | Th      | 11/13    | Data Reduction: Principal Component Analysis                                 | Ch 23                               |                                       |
+| [25](#section25) | T       | 11/18    | Simulation and the Monte Carlo Method                                        | Ch 24                               | **Blog article 9 due!**               |
+| [26](#section26) | Th      | 11/20    | Time Series Analysis                                                         | Ch 25                               |                                       |
 |                  |         | 11/24–11/27 | **FALL BREAK – NO CLASSES**                                               |                                     |                                       |
-| [27](#section27) | T       | 12/02    | Decision Making in the Context of Uncertainty                                | Ch 25                               | **Blog article 10 due!**              |
-| [28](#section28) | Th      | 12/04    | Sports and Cognitive Psychology: Coaching and Risk Aversion                  | Ch 26                               |                                       |
-| [29](#section29) | T       | 12/09    | Sports and Cognitive Psychology: Expert Performance and Automaticity         | Ch 26                               |                                       |
-| [30](#section30) | Th      | 12/11    | Sports and Cognitive Psychology: Psychological Factors in Player Performance | Ch 26                               | **Blog article 11 due!**              |
+| [27](#section27) | T       | 12/02    | Decision Making in the Context of Uncertainty                                | Ch 26                               | **Blog article 10 due!**              |
+| [28](#section28) | Th      | 12/04    | Sports and Cognitive Psychology: Coaching and Risk Aversion                  | Ch 27                               |                                       |
+| [29](#section29) | T       | 12/09    | Sports and Cognitive Psychology: Expert Performance and Automaticity         | Ch 27                               |                                       |
+| [30](#section30) | Th      | 12/11    | Sports and Cognitive Psychology: Psychological Factors in Player Performance | Ch 27                               | **Blog article 11 due!**              |
 | Finals Week      |         | TBD (week of 12/15) | **Final Exam**                                                    |                                     |                                       |
 
 # Date and Time of the Final Exam {#finalExam}
