@@ -35,7 +35,7 @@ Other UI colleges may have different policies.
 Office: 175 Psychological and Brain Sciences Building (PBSB)\
 E-mail: [isaac-t-petersen@uiowa.edu](mailto:isaac-t-petersen@uiowa.edu)\
 Office Phone: 467-1014\
-Student drop-in hours: \
+Student drop-in hours: <mark>INSERT</mark>\
 Note: I'm here to help you learn and succeed.
 Please come to my office hours to ask questions about course material, assignments, exams, or professional development (career-related issues), for instance.
 I welcome you to discuss any concerns you might have about the class.
@@ -147,7 +147,7 @@ We will meet two times weekly for lectures, at the time and location described [
 My powerpoint presentations for the lectures will be posted on [ICON](https://icon.uiowa.edu) no later than noon on the day before the lecture (though I may continue to refine the slides up until the time of lecture).
 <u>Please note:</u> powerpoint presentations are an outline of my points. 
 <u>It is your responsibility to take notes during class.</u>
-If you have questions about the lecture notes or need clarification of any of the points, please ask in class or meet with <mark>the TA or</mark> Professor Petersen during office hours.
+If you have questions about the lecture notes or need clarification of any of the points, please ask in class or meet with Professor Petersen during office hours.
 If you miss a lecture, get and review notes with a peer and watch the lecture recording.
 Then, come to office hours if you have specific questions.
 
@@ -168,17 +168,16 @@ Poor lecture attendance is likely to affect the quality of students' work and su
 
 Students who miss <u>more than 2 lectures</u> due to participation in University activities must give the instructor a statement <u>before the absence</u> signed by a responsible official that specifies the dates and times the student will miss class.
 Authorized activities include participation in athletic teams, the marching band or pep band, debate teams, and other recognized University groups, as well as participation in University field trips, service with the National Guard, and jury duty.
-Absences due to illnesses or emergencies (that go over 2 lectures) must be documented with the University of Iowa [Absence Explanation Form](https://clas.uiowa.edu/faculty/student-attendance-and-absences) and sent to <mark>the TA or</mark> Professor Petersen within 48 hours of the absence.
+Absences due to illnesses or emergencies (that go over 2 lectures) must be documented with the University of Iowa [Absence Explanation Form](https://clas.uiowa.edu/faculty/student-attendance-and-absences) and sent to Professor Petersen within 48 hours of the absence.
 Per university policy, if a student will be absent <u>5 or more consecutive days and the absence is due to illness or other emergency</u>, please contact the Registrar Service Center at (319) 384-4300 or registrar@uiowa.edu.
 
 ## Blog Articles {#blogArticles}
 
-As part of the class, you will post blog articles.
+As part of the class, you will post blog articles (see the [course schedule](#outline) for deadlines).
 <u>The blog articles are public</u>; <u>do not take this course if you do not feel comfortable posting blog articles with your full name in a public forum</u>.
-You will post X articles.
 There will be a penalty of 20% for all blog articles turned in late.
 Your lowest score will be dropped.
-A blog article is not considered "submitted" until you (a) post the blog article so that it is live and publicly available AND (b) submit the assignment on [ICON](https://icon.uiowa.edu) with the URL link to your blog article.
+A blog article is not considered "submitted" until you (a) post the blog article so that it is live and publicly available, AND (b) submit the assignment on [ICON](https://icon.uiowa.edu) with the URL link to your blog article.
 All blog articles should be submitted to [ICON](https://icon.uiowa.edu) by 11:59 p.m. on the due date.
 
 You are encouraged to submit your blog article <u>well before</u> the deadline.
@@ -238,9 +237,9 @@ See below for the documentation necessary for an absence to be excused and to be
 
 Students are allowed to make up exams that have been missed due to illness, mandatory religious observations, official University activities, or other unavoidable circumstances.
 Note: the format of the make-up exam may differ from the original exam.
-If you know that you must be away at the time of an exam for one of these reasons, Professor Petersen <mark>or the TA</mark> must be contacted in advance whenever possible to schedule a make-up exam.
+If you know that you must be away at the time of an exam for one of these reasons, Professor Petersen must be contacted in advance whenever possible to schedule a make-up exam.
 In order to take a make-up exam, you must provide acceptable documentation to be eligible to take it: including documentation for any report of illness; any other circumstances must be documented by the University of Iowa [Absence Explanation Form](https://clas.uiowa.edu/faculty/student-attendance-and-absences) and must be approved by Professor Petersen.
-<u>In sum, to be eligible for a make-up exam, Professor Petersen <mark>or the TA</mark> must be contacted before the examination whenever possible, and you must send acceptable form of documentation to Professor Petersen <mark>or the TA</mark></u>.
+<u>In sum, to be eligible for a make-up exam, Professor Petersen must be contacted before the examination whenever possible, and you must send acceptable form of documentation to Professor Petersen</u>.
 
 # Grading {#grading}
 
@@ -313,15 +312,15 @@ We will have one exam during the semester and one final exam during finals week.
 | [8](#section8)   | Th      | 09/18    | Correlation Analysis                                                         | Ch 10                               | **Blog article 2 due!**               |
 | [9](#section9)   | T       | 09/23    | Multiple Regression and Mixed Models                                         | Ch 11–12                            |                                       |
 | [10](#section10) | Th      | 09/25    | Causal Inference                                                             | Ch 13                               | **Blog article 3 due!**               |
-| [11](#section11) | T       | 09/30    | Heuristics and Cognitive Biases in Prediction                                | Ch 14                               |                                       |
+| [11](#section11) | T       | 09/30    | Heuristics and Cognitive Biases in Prediction                                | Ch 14; Tversky & Kahnema (1974)     |                                       |
 | [12](#section12) | Th      | 10/02    | Human Judgment vs Actuarial Approaches to Prediction                         | Ch 15                               | **Blog article 4 due!**               |
 | [13](#section13) | T       | 10/07    | Base Rates                                                                   | Ch 16                               |                                       |
 | [14](#section14) | Th      | 10/09    | **Midterm Exam**                                                             |                                     |                                       |
 | [15](#section15) | T       | 10/14    | Evaluation of Prediction/Forecasting Accuracy: Binary Classification         | Ch 17 (Section 17.1–17.16.5)        |                                       |
 | [16](#section16) | Th      | 10/16    | Evaluation of Prediction/Forecasting Accuracy: Binary Classification         | Ch 17 (Section 17.6.6–17.6.8)       |                                       |
 | [17](#section17) | T       | 10/21    | Evaluation of Prediction/Forecasting Accuracy: Continuous Outcomes           | Ch 17 (Section 17.7–end of chapter) | **Blog article 5 due!**               |
-| [18](#section18) | Th      | 10/23    | Calibration Accuracy: Overconfidence Bias                                    | Ch 17 (Section 17.7–end of chapter) |                                       |
-| [19](#section19) | T       | 10/28    | Mythbusters: Putting Fantasy Football Beliefs/Anecdotes to the Test          | Sections 14.4.1, 17.7.3             | **Blog article 6 due!**               |
+| [18](#section18) | Th      | 10/23    | Calibration Accuracy: Overconfidence Bias                                    | Kahneman & Tversky (1996); Massey & Thaler (2013) |                         |
+| [19](#section19) | T       | 10/28    | Mythbusters: Putting Fantasy Football Beliefs/Anecdotes to the Test          | Ch 18; White & Sheldon (2014)       | **Blog article 6 due!**               |
 | [20](#section20) | Th      | 10/30    | Machine Learning                                                             | Ch 18                               |                                       |
 | [21](#section21) | T       | 11/04    | Modern Portfolio Theory                                                      | Ch 19                               | **Blog article 7 due!**               |
 | [22](#section22) | Th      | 11/06    | Cluster Analysis                                                             | Ch 20                               |                                       |
@@ -387,7 +386,7 @@ For the privacy and the protection of student records, UI faculty and staff can 
 
 Students have the right to a distraction-free learning environment.
 You have the responsibility to help create such a classroom environment.
-Please treat other students in the class<mark>, the TAs,</mark> and the instructor with respect.
+Please treat other students in the class and the instructor with respect.
 Students are expected to help each other learn and to contribute overall to the learning environment of the course.
 Arriving prepared for class is part of this expectation.
 
