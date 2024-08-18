@@ -329,7 +329,7 @@ We will have one exam during the semester and one final exam during finals week.
 | [25](#section25) | T       | 11/18    | Simulation and the Monte Carlo Method                                        | Ch 24                               | **Blog article 9 due!**               |
 | [26](#section26) | Th      | 11/20    | Time Series Analysis                                                         | Ch 25                               |                                       |
 |                  |         | 11/24–11/27 | **FALL BREAK – NO CLASSES**                                               |                                     |                                       |
-| [27](#section27) | T       | 12/02    | Decision Making in the Context of Uncertainty                                | Ch 26                               | **Blog article 10 due!**              |
+| [27](#section27) | T       | 12/02    | Decision Making in the Context of Uncertainty                                | Ch 26; Larrick et al. (2024)        | **Blog article 10 due!**              |
 | [28](#section28) | Th      | 12/04    | Sports and Cognitive Psychology: Coaching and Risk Aversion                  | Ch 27                               |                                       |
 | [29](#section29) | T       | 12/09    | Sports and Cognitive Psychology: Expert Performance and Automaticity         | Ch 27                               |                                       |
 | [30](#section30) | Th      | 12/11    | Sports and Cognitive Psychology: Psychological Factors in Player Performance | Ch 27                               | **Blog article 11 due!**              |
