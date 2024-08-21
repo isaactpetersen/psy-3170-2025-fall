@@ -304,16 +304,16 @@ We will have one exam during the semester and one final exam during finals week.
 |:-----------------|:--------|:---------|:-----------------------------------------------------------------------------|:------------------------------------|:--------------------------------------|
 | [1](#section1)   | T       | 08/26    | Overview of Class; Overview of Fantasy Football                              | Ch 1–2                              |                                       |
 | [2](#section2)   | Th      | 08/28    | Statistical Programming: Using `R` for Statistical Analysis                  | Ch 3                                |                                       |
-| [3](#section3)   | T       | 09/02    | Player Evaluation                                                            | Ch 6                                | **Set up blog; post welcome article** |
+| [3](#section3)   | T       | 09/02    | Player Evaluation                                                            | Ch 6; Den Hartigh et al. (2018)     | **Set up blog; post welcome article** |
 | [4](#section4)   | Th      | 09/04    | The Draft                                                                    | Ch 7                                |                                       |
 | [5](#section5)   | T       | 09/09    | Statistical Programming in `R`                                               | Ch 4                                |                                       |
 | [6](#section6)   | Th      | 09/11    | Basic Statistics                                                             | Ch 8–9                              | **Blog article 1 due!**               |
 | [7](#section7)   | T       | 09/16    | Data Visualization and Interpretation                                        | Ch 5                                |                                       |
 | [8](#section8)   | Th      | 09/18    | Correlation Analysis                                                         | Ch 10                               | **Blog article 2 due!**               |
-| [9](#section9)   | T       | 09/23    | Multiple Regression and Mixed Models                                         | Ch 11–12                            |                                       |
+| [9](#section9)   | T       | 09/23    | Multiple Regression and Mixed Models                                         | Ch 11–12; Osborne & Waters (2002); Brauer & Kurtin (2018) |                 |
 | [10](#section10) | Th      | 09/25    | Causal Inference                                                             | Ch 13; D'Onofrio et al. (2020)      | **Blog article 3 due!**               |
 | [11](#section11) | T       | 09/30    | Heuristics and Cognitive Biases in Prediction                                | Ch 14; Tversky & Kahneman (1974)    |                                       |
-| [12](#section12) | Th      | 10/02    | Human Judgment vs Actuarial Approaches to Prediction                         | Ch 15                               | **Blog article 4 due!**               |
+| [12](#section12) | Th      | 10/02    | Human Judgment vs Actuarial Approaches to Prediction                         | Ch 15; Grove et al. (2000)          | **Blog article 4 due!**               |
 | [13](#section13) | T       | 10/07    | Base Rates                                                                   | Ch 16                               |                                       |
 | [14](#section14) | Th      | 10/09    | **Midterm Exam**                                                             |                                     |                                       |
 | [15](#section15) | T       | 10/14    | Evaluation of Prediction/Forecasting Accuracy: Binary Classification         | Ch 17 (Section 17.1–17.16.5)        |                                       |
