@@ -311,8 +311,8 @@ We will have one exam during the semester and one final exam during finals week.
 | [7](#section7)   | T       | 09/16    | Data Visualization and Interpretation                                        | Ch 5                                |                                       |
 | [8](#section8)   | Th      | 09/18    | Correlation Analysis                                                         | Ch 10                               | **Blog article 2 due!**               |
 | [9](#section9)   | T       | 09/23    | Multiple Regression and Mixed Models                                         | Ch 11–12                            |                                       |
-| [10](#section10) | Th      | 09/25    | Causal Inference                                                             | Ch 13                               | **Blog article 3 due!**               |
-| [11](#section11) | T       | 09/30    | Heuristics and Cognitive Biases in Prediction                                | Ch 14; Tversky & Kahnema (1974)     |                                       |
+| [10](#section10) | Th      | 09/25    | Causal Inference                                                             | Ch 13; D'Onofrio et al. (2020)      | **Blog article 3 due!**               |
+| [11](#section11) | T       | 09/30    | Heuristics and Cognitive Biases in Prediction                                | Ch 14; Tversky & Kahneman (1974)    |                                       |
 | [12](#section12) | Th      | 10/02    | Human Judgment vs Actuarial Approaches to Prediction                         | Ch 15                               | **Blog article 4 due!**               |
 | [13](#section13) | T       | 10/07    | Base Rates                                                                   | Ch 16                               |                                       |
 | [14](#section14) | Th      | 10/09    | **Midterm Exam**                                                             |                                     |                                       |
