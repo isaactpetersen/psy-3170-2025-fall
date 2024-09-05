@@ -129,6 +129,11 @@ Thus, I created a textbook for this course.
 The textbook for this course is available <u>for free</u> online:
 https://isaactpetersen.github.io/Fantasy-Football-Analytics-Textbook
 
+# Required Materials {#requiredMaterials}
+
+For the class, you will be required to have access to a computer that allows you to install and run software (including `R`, `git`, and `GitHub Desktop`).
+A laptop is preferable, so you can bring it to class and work through examples in class.
+
 # Academic Honesty and Misconduct {#academicHonesty}
 
 All students in CLAS courses are expected to abide by the [college's standards of academic honesty](https://clas.uiowa.edu/students/handbook/academic-fraud-honor-code).
