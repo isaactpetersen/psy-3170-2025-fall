@@ -134,7 +134,7 @@ Note: There is a section of the book that invites readers to donate to support i
 The book is publicly available and the donation option is <u>intended for non-UI people</u> who use the book.
 Per the [UI Policy Manual](https://opsmanual.uiowa.edu), faculty are prohibited from a) [receiving gifts from their students](https://opsmanual.uiowa.edu/community-policies/prohibition-giving-and-receiving-gifts) and b) [profiting from recommending or requiring the purchase of course materials from their students](https://opsmanual.uiowa.edu/human-resources/compensation/supplemental-activities-and-extra-compensation).
 As described [here](https://opsmanual.uiowa.edu/human-resources/compensation/supplemental-activities-and-extra-compensation), "Faculty members who would otherwise receive royalties or other remuneration from the purchase of books or materials which they recommend or require in courses they teach should either refund the money to the students or make other arrangements to avoid profiting from their students' use of the materials (such as transferring it to the University or one of its units, or to the University of Iowa Center for Advancement)."
-Bottom line: <u>**please do NOT donate or give other gifts—they are not allowed!**<u>
+Bottom line: <u>**please do NOT donate or give other gifts—they are not allowed!**</u>
 
 # Required Materials {#requiredMaterials}
 
