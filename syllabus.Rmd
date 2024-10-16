@@ -302,7 +302,7 @@ If you are going to implement a change, I strongly encourage you to discuss with
 I reserve the right to determine whether the "fix", suggestion, or implementation warrants extra credit!
 The extra credit must be completed by the last day of class.
 
-In addition, the winner(s) of the class fantasy football league will get 1 point extra credit.
+In addition, the winner(s) of the class fantasy football league (whoever leads the league based on total points or win/loss record at the end of the class, i.e., week 14 of the NFL season) will get 1 point extra credit.
 No additional extra-credit opportunities are available for this course.
 
 # Tentative Course Outline (exam dates fixed) {#outline}
