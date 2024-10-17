@@ -54,11 +54,8 @@ Chair of Department: Professor Blumberg ([mark-blumberg@uiowa.edu](mailto:mark-b
 
 The Department of Psychological and Brain Sciences has a hierarchical course structure that requires students to complete certain prerequisite courses before taking upper-level courses.
 This course requires successful completion (C- or higher) of any of the following statistics courses (or AP Statistics from high school):
-PSY 2811, PSQF 1020, PSQF 4143, STAT 1010, STAT 1015, STAT 1020, STAT 1030, STAT 3510, STAT 4143
+PSY 2811, PSQF 1020, PSQF 4143, STAT 1010, STAT 1015, STAT 1020, STAT 1030, STAT 3510, STAT 4143.
 The department will check student records to ensure completion of course prerequisites.
-
-Any of the following courses with a minimum grade of C- (or AP stats from high school):
-PSY 2811, PSQF 1020, PSQF 4143, STAT 1010, STAT 1015, STAT 1020, STAT 1030, STAT 3510, STAT 4143
 
 # Description of Course {#description}
 
