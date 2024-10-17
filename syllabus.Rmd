@@ -210,9 +210,9 @@ I do not often respond to emails during evenings or weekends, and I cannot be ex
 
 ## Readings & Quizzes {#readingQuizzes}
 
-Readings and other materials will be posted on [ICON](https://icon.uiowa.edu).
-You are expected to do the readings before class.
-You will have an online quiz on the readings to complete in [ICON](https://icon.uiowa.edu), on your own, <u>before</u> each lecture.
+Readings and other materials (e.g., videos) will be posted on [ICON](https://icon.uiowa.edu).
+You are expected to do the readings (and watch any required videos) before class.
+You will have an online quiz on the readings/materials to complete in [ICON](https://icon.uiowa.edu), on your own, <u>before</u> each lecture.
 The quizzes are meant to help you come to class prepared to contribute so you are best-positioned to learn and to help others learn.
 The quizzes are not timed (you can spend as much time as you need on each quiz up until the deadline).
 The deadline for each quiz is 30 minutes before class starts.
@@ -259,16 +259,16 @@ As part of the class, we will have a fantasy football league.
 The league will be composed of 10 teams, with approximately 2 students per team.
 That is, you will (likely) be paired with another student in the class to co-manage a team.
 The league will be hosted on [NFL.com](https://fantasy.nfl.com) and will follow [default NFL.com scoring settings](https://support.nfl.com/hc/en-us/articles/4989179237404-Scoring).
-The league will be a head-to-head league, meaning that each week, your team will face one other team, and whoever scores more points wins that week.
-There are no points based on performance (i.e., you will NOT be punished for having a bad team); however, there is an [extra credit opportunity](#extraCredit) for winning the league.
+The league will be a head-to-head league, meaning that each week, your team will face one other team, and whichever team scores more points wins that week.
+There are no course-related points based on your team's performance (i.e., you will NOT be punished for having a bad team); however, there is an [extra credit opportunity](#extraCredit) for winning the league.
 
 The draft will be held during class time.
 The draft will be a "snake" draft, meaning that the order of picks will reverse each round.
 The draft order will be randomly determined.
 
-In conjunction with your co-manager, you will make decisions regarding draft picks, waiver wire pickups/drops, trades, and starting lineups.
-Regardless of your expertise or experience with fantasy football, you are a 50% co-owner of the team.
-That is, <u>you are expected to make all team-related decisions in collaboration with your co-manager</u>, not unilaterally.
+In conjunction with your co-manager, you will make decisions regarding your team's name, draft picks, waiver wire pickups/drops, trades, and starting lineups.
+Regardless of your expertise or experience with fantasy football, you and your co-manager are each 50% co-owners of the team.
+That is, <u>you are expected to make all team-related decisions with your co-manager collaboratively</u>, not unilaterally.
 
 As the commissioner of the league, I reserve the right to block any trades that that would compromise the integrity of the league.
 Trades will be allowed as long as each team is acting in their team's best interests; that is, "lopsided" trades will be allowed as long as both teams are acting in good faith to improve their own team.
@@ -276,7 +276,7 @@ Trades will not be allowed if they involve collusion, that is, collaboration to 
 Examples of collusion include:
 
 - trading players for the purpose of improving the other team's standing in the league (and not your own)
-- trading players, not on bye week, just so an opponent can specifically beat another opponent and then trading back immediately
+- trading players who are not on bye week, just so an opponent can specifically beat another opponent and then trading those players back immediately
 - trades that involve outside-of-the-game exchange of goods or services
 - trades that involve a handshake agreement of in-game goods or services
 - trades that cannot be completed in one trade
