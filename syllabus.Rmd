@@ -289,20 +289,20 @@ Final grades will be assigned based on the following ranges:
 |:------|:--------|
 | A+    | 97–100% | 
 | A     | 93–96   |
-| A-    | 90–92   |
+| A−    | 90–92   |
 | B+    | 87–89   |
 | B     | 83–86   |
-| B-    | 80–82   |
+| B−    | 80–82   |
 | C+    | 75–79   |
 | C     | 70–74   |
-| C-    | 65–69   |
+| C−    | 65–69   |
 | D+    | 60–64   |
 | D     | 55–59   |
-| D-    | 50–54   |
+| D−    | 50–54   |
 | F     | < 50%   |
 
 I round up from .5 when determining final grades.
-For example, a course percent of 79.50 would receive a B-, whereas a course percent of 79.49 would receive a C+.
+For example, a course percent of 79.50 would receive a B−, whereas a course percent of 79.49 would receive a C+.
 
 # Course Grades {#courseGrades}
 
