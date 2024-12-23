@@ -339,13 +339,13 @@ We will have one exam during the semester and one final exam during finals week.
 
 | **Section**      | **Day** | **Date** | **Content**                                                                  | Reading                             | Assignment                            |
 |:-----------------|:--------|:---------|:-----------------------------------------------------------------------------|:------------------------------------|:--------------------------------------|
-| [1](#section1)   | T       | 08/26    | Overview of Class; Overview of Fantasy Football                              | Ch 1–2                              |                                       |
-| [2](#section2)   | Th      | 08/28    | Statistical Programming: Using `R` for Statistical Analysis                  | Ch 3                                |                                       |
+| [1](#section1)   | T       | 08/26    | Overview of Class; Overview of Fantasy Football                              | Ch 1–2                              | [CodeAcademy Module 1](https://www.codecademy.com/learn/learn-r) |
+| [2](#section2)   | Th      | 08/28    | Statistical Programming: Using `R` for Statistical Analysis                  | Ch 3                                | [CodeAcademy Modules 2–3](https://www.codecademy.com/learn/learn-r) |
 | [3](#section3)   | T       | 09/02    | Player Evaluation                                                            | Ch 6; Den Hartigh et al. (2018)     | **Set up blog; post welcome article** |
-| [4](#section4)   | Th      | 09/04    | The Draft                                                                    | Ch 7; Lee & Liu (2022)              |                                       |
-| [5](#section5)   | T       | 09/09    | Statistical Programming in `R`                                               | Ch 4                                |                                       |
+| [4](#section4)   | Th      | 09/04    | The Draft                                                                    | Ch 7; Lee & Liu (2022)              | [CodeAcademy Modules 5–6](https://www.codecademy.com/learn/learn-r) |
+| [5](#section5)   | T       | 09/09    | Statistical Programming in `R`                                               | Ch 4                                | [CodeAcademy Modules 7–10](https://www.codecademy.com/learn/learn-r) |
 | [6](#section6)   | Th      | 09/11    | Basic Statistics                                                             | Ch 8–9                              | **Blog article 1 due!**               |
-| [7](#section7)   | T       | 09/16    | Data Visualization and Interpretation                                        | Ch 5; Schwabish (2021)              |                                       |
+| [7](#section7)   | T       | 09/16    | Data Visualization and Interpretation                                        | Ch 5; Schwabish (2021)              | [CodeAcademy Module 4](https://www.codecademy.com/learn/learn-r) |
 | [8](#section8)   | Th      | 09/18    | Correlation Analysis                                                         | Ch 10; Goodwin & Leech (2006)       | **Blog article 2 due!**               |
 | [9](#section9)   | T       | 09/23    | Multiple Regression                                                          | Ch 11; Osborne & Waters (2002)      |                                       |
 | [10](#section10) | Th      | 09/25    | Mixed Models                                                                 | Ch 12; Brauer & Kurtin (2018)       |                                       |
