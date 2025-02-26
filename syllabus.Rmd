@@ -195,7 +195,22 @@ Thus, you should give yourself plenty of time to [troubleshoot](#troubleshooting
 
 ### Troubleshooting {#troubleshooting}
 
-If you run into issues related to `R`, `GitHub`, `GitHub Pages`, or your code, I encourage you to try one (or more) of the following:
+Sometimes code you write does not work.
+That is okay; it happens to everyone.
+Learning how to troubleshoot code is an important part of programming.
+If you run into issues related to `R`, `GitHub`, `GitHub Pages`, or your code, here are a few pointers on how to get things working (as adapted from Luke Tierney):
+
+- If you receive an error message, read what the message says.
+Sometimes reading the error message is all it takes to figure out what the issue is and how to fix it.
+- Read the whole error message: sometimes the most important part is at the beginning.
+- If the message does not make sense to you, perform a Google search for the error/issue: often someone else has asked about the same issue and received a useful answer.
+- Simplify your code.
+    - Look carefully at intermediate results.
+    - Replace complicated data by something smaller and simpler.
+    - In the process you may find your mistake.
+- Finding your bug usually involves double checking all the things you are sure you did right until you find the one you did not.
+
+If you are unable to resolve things on your own, you may need to ask for help, in which case I encourage you to try one (or more) of the following:
 
 - Perform a Google search for the error/issue
 - Check the [Troubleshooting section](https://isaactpetersen.github.io/QuartoBlogFantasyFootball/posts/quarto-instructions/#sec-troubleshooting) of the course's Quarto Instructions
