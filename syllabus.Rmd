@@ -333,8 +333,9 @@ The relative contribution of each component to your final grade is as follows:
 
 ## Extra Credit {#extraCredit}
 
-I will give you 0.5 point extra credit if you 1) identify an issue in the [course textbook](https://isaactpetersen.github.io/Fantasy-Football-Analytics-Textbook) that needs to be fixed or 2) make a <u>specific</u> suggestion for a way to improve the [textbook](https://isaactpetersen.github.io/Fantasy-Football-Analytics-Textbook) and its usefulness to you or other students.
-For instance, to identify an issue that needs to be addressed, you could identify a typo, misspelling, grammatical issue, or (gasp), a mistake/error.
+I will give you 0.5 point extra credit if you 1) identify a new (i.e., not previously known) issue in the [course textbook](https://isaactpetersen.github.io/Fantasy-Football-Analytics-Textbook) that needs to be fixed or 2) make a <u>specific</u> suggestion for a way to improve the [textbook](https://isaactpetersen.github.io/Fantasy-Football-Analytics-Textbook) and its usefulness to you or other students.
+For instance, to identify an issue that needs to be addressed, you could identify a typo, misspelling, grammatical issue, failed cross-reference link to another section of the book, or (gasp), a mistake/error.
+If I have a placeholder for something in the book (e.g., a comment in brackets to insert something), I am already aware of this, and this would not count as a "new issue."
 To receive the extra credit, [create a new issue](https://github.com/isaactpetersen/Fantasy-Football-Analytics-Textbook/issues) in the [textbook's GitHub repository](https://github.com/isaactpetersen/Fantasy-Football-Analytics-Textbook), and email me after doing so.
 I will give you an additional 0.5 point extra credit (for 1-point extra in total) if you implement the fixes/suggestions you specify.
 To receive the extra credit for implementing the fix/suggestion, [create a pull request](https://github.com/isaactpetersen/Fantasy-Football-Analytics-Textbook/pulls) with your changes, and email me after doing so.
