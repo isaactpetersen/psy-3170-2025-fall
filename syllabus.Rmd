@@ -248,7 +248,7 @@ Students should therefore expect to spend [6 additional hours per week](https://
 
 There will be 2 exams; one mid-term exam and one non-cumulative final exam.
 Each exam will emphasize information presented for the half of the class that precedes it.
-However, some integration of information across sections will be required for questions on the second and third exams.
+However, some integration of information across sections will be required for questions on the second exam.
 The exams will include multiple-choice questions.
 Exam questions can come from <u>any of the following sources: lectures or required readings</u>.
 For suggested study tips for this class, meet with Professor Petersen during office hours.
