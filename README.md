@@ -3,6 +3,12 @@
 This is the code that creates the Wiki for PSY:3170 – Fantasy Football: Predictive Analytics and Empiricism (Fall 2025). 
 The Class Wiki is located here: **https://isaactpetersen.github.io/psy-3170-2025-fall/**
 
+To render the syllabus as PDF:
+
+```r
+rmarkdown::render("syllabus.Rmd", output_format = "pdf_document")
+```
+
 # License
 
 [![License: GPL v3][gpl-v3-shield]][gpl-v3]
