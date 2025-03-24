@@ -386,8 +386,8 @@ We will have one exam during the semester and one final exam during finals week.
 |                  |         | 11/24–11/27 | **FALL BREAK – NO CLASSES**                                               |                                     |                                       |
 | [27](#section27) | T       | 12/02    | Time Series Analysis                                                         | Ch 25; Hyndman & Athanasopoulos (2021), Ch 1 (through Section 1.7) |        |
 | [28](#section28) | Th      | 12/04    | Decision Making in the Context of Uncertainty                                | Ch 26; Larrick et al. (2024)        | **Blog article 10 due!**              |
-| [29](#section29) | T       | 12/09    | Sports and Cognitive Psychology: Coaching and Risk Aversion                  | Ch 27; Moskowitz & Wethheim (2012), Ch 3 & 16 |                             |
-| [30](#section30) | Th      | 12/11    | Sports and Cognitive Psychology: Psychological Factors in Player Performance; Expert Performance and Automaticity | Ch 27; Moskowitz & Wethheim (2012), Ch 17 | **Blog article 11 due!**       |
+| [29](#section29) | T       | 12/09    | Sports and Cognitive Psychology: Coaching and Risk Aversion                  | Ch 27; Moskowitz & Werthheim (2012), Ch 3 & 16 |                             |
+| [30](#section30) | Th      | 12/11    | Sports and Cognitive Psychology: Psychological Factors in Player Performance; Expert Performance and Automaticity | Ch 27; Moskowitz & Werthheim (2012), Ch 17 | **Blog article 11 due!**       |
 | Finals Week      |         | TBD (week of 12/15) | **Final Exam**                                                    |                                     |                                       |
 
 # Date and Time of the Final Exam {#finalExam}
