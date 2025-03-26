@@ -170,8 +170,8 @@ However, <u>please do not count on recordings being available</u>, in case I acc
 ## Attendance and Participation {#attendanceParticipation}
 
 Attendance at lectures is required and will be factored into final grades (see grading section [below](#courseGrades)).
-There are 29 lectures during the semester (excluding the examinations).
-You will receive one point for attendance at each lecture up to 27 points (i.e., you will not receive extra credit for attending all 29 lectures).
+There are 29 lectures during the semester (excluding the examinations); in addition, there are two required course surveys (one pre-course survey, one end-of-course survey).
+You will receive one point for completion of each course survey and attendance at each lecture, for up to 29 points (i.e., you will not receive extra credit for attending/completing all 31 lectures/surveys).
 <u>Thus, you will not be penalized for missing up to 2 lectures.
 However, you will be responsible for learning any material missed for quizzes and exams, and I strongly encourage you to attend all lectures.
 Poor lecture attendance is likely to affect the quality of students' work and success in the course.</u>
