@@ -60,7 +60,8 @@ The department will check student records to ensure completion of course prerequ
 
 # Fulfilling Your Academic Requirements {#academicRequirements}
 
-If you are using this course as a second cognate for the B.S. requirements, please see your academic advisor.
+Psychology Students: This course will satisfy either an upper-level elective or a second Cognate (second Cognates are required for Bachelor of Science [B.S.] students).
+If you are using this course as a second Cognate for the B.S. requirements, please see your academic advisor.
 
 # Description of Course {#description}
 
@@ -86,7 +87,6 @@ Take this class if:
 
 *Do not take this class if*:
 
-- you are just looking for an "easy" class (the class is not easy);
 - you are reluctant to examine fantasy football topics in a scientific manner;
 - you do not want to write public blog articles as part of the class; or
 - you do not want to learn statistics and programming, and do not want to persist through inevitable challenges along the way.
