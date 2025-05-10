@@ -78,6 +78,7 @@ Students will be introduced to modern analytical techniques used to make informe
 The course uses fantasy football as a lens and application through which to learn about statistics and empiricism.
 The class does not assume that students know anything about football or fantasy football.
 The class is welcome to all, assuming the student meets the prerequisites and that they are interested in learning about empiricism (basing theories on observed data), statistics, and judgment, prediction, and decision making in the context of uncertainty.
+No need to worry about how well your fantasy team does; your grade does NOT depend on your team's performance (however, the league winner receives [extra credit](#extraCredit)).
 
 Take this class if:
 
