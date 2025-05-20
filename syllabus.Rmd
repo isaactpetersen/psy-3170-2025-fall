@@ -109,24 +109,33 @@ Thus, it provides a unique domain to evaluate—and improve—the accuracy of va
 By the end of the course, successful students will be able to:
 
 1. Think critically and empirically about human behavior and performance
-  - Apply empirical inference and articulate its advantages over speculative supposition.
-  - Provide well-reasoned guidance for decision-making under conditions of uncertainty.
-  - Describe common flaws in human judgment and decision making, including heuristics and cognitive biases, and explain how they can be mitigated analytically.
-  - Critically evaluate causal claims by generating plausible alternative explanations.
-  - Apply core concepts in causal inference, including confounding, causal pathways, and counterfactuals.
-  - Compare the strengths and limitations of human and machine approaches to prediction.
 1. Make sense of big data
-  - Apply foundational skills in statistical programming using `R` to combine, manipulate, clean, and summarize large datasets.
 1. Use, evaluate, and interpret statistical analyses
-  - Conduct data analyses using `R`, including appropriate application of statistical models.
-  - Critically evaluate the strengths and limitations of statistical models and methods used for predicting uncertain events.
-  - Apply analytical techniques to predict outcomes and uncover latent causes in observed data.
-  - Interpret results from statistical analyses and evaluate the accuracy of predictions.
-  - Engage in iterative problem-solving, refining analytical strategies based on results and feedback.
-  - Use practical analytical skills that can be applied in future research and job settings.
-1. Communicate data-driven insights effectively
-  - Communicate statistical findings clearly and accurately in both written and oral formats.
-  - Create effective data visualizations that enhance understanding of data or analytical results.
+1. Communicate data-driven insights
+
+## How Students Will Achieve the Learning Objectives {#objectivesHowAchieve}
+
+Students will achieve the learning objectives through the following specific objectives:
+
+1. Think critically and empirically about human behavior and performance
+    - Apply empirical inference and articulate its advantages over speculative supposition.
+    - Provide well-reasoned guidance for decision-making under conditions of uncertainty.
+    - Describe common flaws in human judgment and decision making, including heuristics and cognitive biases, and explain how they can be mitigated analytically.
+    - Critically evaluate causal claims by generating plausible alternative explanations.
+    - Apply core concepts in causal inference, including confounding, causal pathways, and counterfactuals.
+    - Compare the strengths and limitations of human and machine approaches to prediction.
+1. Make sense of big data
+    - Apply foundational skills in statistical programming using `R` to combine, manipulate, clean, and summarize large datasets.
+1. Use, evaluate, and interpret statistical analyses
+    - Conduct data analyses using `R`, including appropriate application of statistical models.
+    - Critically evaluate the strengths and limitations of statistical models and methods used for predicting uncertain events.
+    - Apply analytical techniques to predict outcomes and uncover latent causes in observed data.
+    - Interpret results from statistical analyses and evaluate the accuracy of predictions.
+    - Engage in iterative problem-solving, refining analytical strategies based on results and feedback.
+    - Use practical analytical skills that can be applied in future research and job settings.
+1. Communicate data-driven insights
+    - Communicate statistical findings in writing for a public audience.
+    - Create data visualizations.
 
 # Textbook {#textbook}
 
