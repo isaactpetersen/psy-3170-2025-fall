@@ -342,7 +342,7 @@ Here are the extra credit opportunities for this course:
 
 - 0.5 points: identify a new issue in the [course textbook](https://isaactpetersen.github.io/Fantasy-Football-Analytics-Textbook) that needs to be fixed, or make a <u>specific</u> suggestion for improving the [textbook](https://isaactpetersen.github.io/Fantasy-Football-Analytics-Textbook) and its usefulness to you or other students
 - 0.5 points: implement a fix/suggestion for the issue you identified in the [course textbook](https://isaactpetersen.github.io/Fantasy-Football-Analytics-Textbook)
-- 0.5 points: create an end-of-semester video reflection
+- 0.5 points: submit an end-of-semester video reflection
 - 1 point: win the [class fantasy football league](#fantasyFootballLeague)
 
 The extra credit must be completed by the last day of class.
@@ -361,7 +361,7 @@ Note that placeholders (e.g., "[insert here]") are already known and do not coun
 To receive the extra credit:
 
 1. [Create a new issue](https://github.com/isaactpetersen/Fantasy-Football-Analytics-Textbook/issues) in the [textbook's GitHub repository](https://github.com/isaactpetersen/Fantasy-Football-Analytics-Textbook), and
-1. email me after doing so.
+1. Email me after doing so.
 
 You can earn an **additional 0.5 points** extra credit (for 1 point extra in total) by implementing the fixes/suggestions you specified.
 To receive the extra credit for implementing the fix/suggestion:
