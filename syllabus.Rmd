@@ -98,7 +98,7 @@ Take this class if:
 ## What is Fantasy Football? And Why Focus on Fantasy Football? {#fantasyFootball}
 
 Fantasy football is an online game where participants assemble (i.e., "draft") imaginary teams composed of real-life National Football League (NFL) players.
-In the game of fantasy football, participants compete against others, accumulating "fantasy" points based on players' actual statistical performances in games (and the goal is to outscore one’s opponent each week to win matches and ultimately claim victory in the league).
+In the game of fantasy football, participants compete against others, accumulating "fantasy" points based on players' actual statistical performances in games (and the goal is to outscore one's opponent each week to win matches and ultimately claim victory in the league).
 Fantasy football relies heavily on prediction—trying to predict which players will perform best and selecting them accordingly.
 In this way, fantasy football provides a plethora of decision making opportunities in the face of uncertainty, and a wealth of data for analyzing these decisions.
 However, unlike many other applied domains in psychology, fantasy football (1) allows a person to see the accuracy of their predictions on a timely basis and (2) provides a safe environment for friendly competition.
