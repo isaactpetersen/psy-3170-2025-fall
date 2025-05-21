@@ -175,9 +175,9 @@ However, I do encourage you to collaborate with classmates to to learn `R`, stat
 Because writing, analytical, and critical thinking skills are part of the learning outcomes of this course, all work submitted by students should be prepared by the student.
 You are training these cognitive muscles; if you go to the gym, you would not have AI lift the weights for you.
 For these reasons, AI-generated submissions are not permitted and will be treated as plagiarism.
-Learning these core foundational skills will make you a better user of AI in the future, because you will be better-positioned to critically evaluate its responses and to determine when its responses are inaccurate.
+Learning these core foundational skills will make you a better user of AI in the future, because you will be better-positioned in the future to critically evaluate AI responses and to identify when (and the ways in which) its responses are inaccurate.
 Moreover, in many industries, use of AI is not permitted because you cannot share the company's proprietary information.
-Thus, developing strong competencies (without the use of AI) in these domains will prepare you for a competitive workplace.
+Thus, developing strong competencies in these domains (without the use of AI) will prepare you for a competitive workplace.
 
 # Course Requirements and Policies {#requirements}
 
