@@ -195,21 +195,30 @@ This section governs our use of AI in this course[^AI].
 
 <u>Use of AI is *NOT* permitted on quizzes or exams.</u>
 
-Use of AI in this course is permitted for the [writing assignments](#blogArticles) under three conditions:
+Use of AI in this course is permitted for the [writing assignments](#blogArticles) under four conditions:
 
-1. You disclose how you use it
+1. You complete your first draft of the writing [independently](#aiCompleteDraft)
+1. You [disclose](#aiDisclosure) how you use AI
 1. You begin the conversation with the [required prompt](#aiPrompt)
-1. You submit the full transcript of your AI interaction along with the assignment
+1. You submit the [full transcript](#aiTranscript) of your AI interaction along with the assignment
 
 <u>Failure to meet any of these conditions will result in a zero on the assignment and may be grounds for an academic misconduct case.</u>
 
 You may choose any AI model, but you must be able to <u>archive and submit the full conversation</u>.
 In ChatGPT, for example, you can generate a shareable link to the transcript.
 
+These four conditions are detailed below.
 I reserve the right to revoke this privilege at any time if I suspect it is being abused.
 
 [^AI]:
     This policy on AI was borrowed and adapted (with permission) from a policy by Isaac Mehlhaff.
+
+### Complete Your First Draft of Writing Independently {#aiCompleteDraft}
+
+You may use AI to help you troubleshoot code, clarify concepts, and improve your writing.
+However, before you engage with any AI tools to improve your writing, you must write a complete first draft of your assignment on your own.
+This draft should represent your best independent effort to meet the assignment's goals, including organizing your ideas, supporting your claims with evidence, and expressing your thoughts clearly.
+Then, you may use AI—under the [required conditions](#aiPolicy)—to help you refine your writing.
 
 ### AI Disclosure {#aiDisclosure}
 
@@ -224,7 +233,7 @@ Your disclosure must include one or more of the following options:
 List all that apply.
 For instance, if you used AI to understand a concept and generate example code, your disclosure should include both `Mentoring` and `Code`.
 
-### Initial Prompt to Use {#aiPrompt}
+### Required Initial Prompt to Use {#aiPrompt}
 
 Each time you use AI, <u>the first message you send to begin the conversation must be the prompt below</u>.
 This prompt ensures that AI use supports your learning rather than replacing your thinking.
