@@ -120,6 +120,7 @@ Students will achieve the learning objectives through the following specific obj
 ### 1. Think critically and empirically about human behavior and performance {#objectivesThinkCritically}
 
 - Apply empirical inference and articulate its advantages over speculative supposition.
+- Formulate research questions, hypotheses, and predictions.
 - Provide well-reasoned guidance for decision-making under conditions of uncertainty.
 - Describe common flaws in human judgment and decision making, including heuristics and cognitive biases, and explain how they can be mitigated analytically.
 - Critically evaluate causal claims by generating plausible alternative explanations.
@@ -288,6 +289,7 @@ Per university policy, if a student will be absent <u>5 or more consecutive days
 
 As part of the class, you will post blog articles (see the [course schedule](#outline) for deadlines).
 <u>The blog articles are public</u>; <u>do not take this course if you do not feel comfortable posting blog articles with your full name in a public forum</u>.
+The blog articles are intended to give you practice integating skills to advance the [learning objectives](#objectives) of a) thinking critically and empirically about human behavior and performance, b) making sense of big data, c) using, evaluating, and interpreting statistical analyses, and d) communicating data-driven insights.
 There will be a penalty of 20% for all blog articles turned in late.
 Your two lowest scores will be dropped (excluding the last blog article, which involves in the integration of at least two analysis approaches that were covered in class).
 A blog article is not considered "submitted" until you (a) post the blog article so that it is live and publicly available, AND (b) submit the assignment on [ICON](https://icon.uiowa.edu) with a PDF of the article and a URL link to your blog article.
