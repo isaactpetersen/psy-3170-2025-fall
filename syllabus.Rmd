@@ -167,7 +167,7 @@ A laptop is preferable, so you can bring it to class and work through examples i
 
 All students in CLAS courses are expected to abide by the [college's standards of academic honesty](https://clas.uiowa.edu/students/handbook/academic-fraud-honor-code).
 Academic misconduct must be reported by instructors to CLAS according to [these procedures](https://policy.clas.uiowa.edu/clas-policies-and-procedures/undergraduate-education/academic-misconduct-undergraduate).
-Please note that collaboration with other classmates is not permitted for <u>quizzes, writing assignments (except for troubleshooting `R` errors), and during exams</u>.
+Please note that collaboration with other classmates is not permitted on <u>quizzes, writing assignments</u> (except when collaboratively [troubleshooting `R` errors](#troubleshooting))<u>, or during exams</u>.
 However, I do encourage you to collaborate with classmates to to learn `R`, statistics, and programming, to troubleshoot an error you run into, and to *prepare* for exams (e.g., informal study groups).
 
 ## On the Use of Artificial Intelligence {#ai}
