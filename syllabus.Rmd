@@ -104,6 +104,14 @@ In this way, fantasy football provides a plethora of decision making opportuniti
 However, unlike many other applied domains in psychology, fantasy football (1) allows a person to see the accuracy of their predictions on a timely basis and (2) provides a safe environment for friendly competition.
 Thus, it provides a unique domain to evaluate—and improve—the accuracy of various prediction models.
 
+# Course Goals {#goals}
+
+The course has three over-arching goals; to help students:
+
+1. Appreciate the value of statistics for answering questions you find interesting
+1. Think critically and be a critical consumer of information in society
+1. Get excited about learning stats!
+
 # Learning Objectives {#objectives}
 
 By the end of the course, successful students will be able to:
