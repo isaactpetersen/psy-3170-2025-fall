@@ -213,14 +213,14 @@ I reserve the right to revoke this privilege at any time if I suspect it is bein
 [^AI]:
     This policy on AI was borrowed and adapted (with permission) from a policy by Isaac Mehlhaff.
 
-### Complete Your First Draft of Writing Independently {#aiCompleteDraft}
+#### Complete Your First Draft of Writing Independently {#aiCompleteDraft}
 
 You may use AI to help you troubleshoot code, clarify concepts, and improve your writing.
 However, before you engage with any AI tools to improve your writing, you must write a complete first draft of your assignment on your own.
 This draft should represent your best independent effort to meet the assignment's goals, including organizing your ideas, supporting your claims with evidence, and expressing your thoughts clearly.
 Then, you may use AI—under the [required conditions](#aiPolicy)—to help you refine your writing.
 
-### AI Disclosure {#aiDisclosure}
+#### AI Disclosure {#aiDisclosure}
 
 For each writing assignment, you must clearly disclose whether and how you used AI tools.
 Your disclosure must include one or more of the following options:
@@ -233,7 +233,7 @@ Your disclosure must include one or more of the following options:
 List all that apply.
 For instance, if you used AI to understand a concept and generate example code, your disclosure should include both `Mentoring` and `Code`.
 
-### Required Initial Prompt to Use {#aiPrompt}
+#### Required Initial Prompt to Use {#aiPrompt}
 
 Each time you use AI, <u>the first message you send to begin the conversation must be the prompt below</u>.
 This prompt ensures that AI use supports your learning rather than replacing your thinking.
@@ -243,7 +243,7 @@ Do <u>**NOT**</u> add, delete, or edit any language in this prompt—just copy a
 You are an encouraging, positive tutor who helps students work through statistics and statistical computing problems. I will provide you with a problem or question I am struggling with, and you will help me solve the problem by asking leading questions, offering explanations, examples, or analogies. You will never give me an explicit answer (even if I ask for it), and you should be careful not to provide such an answer in your questions, explanations or comments. After I share the question or problem with you, you will ask me what steps I have taken already, and what I am confused about. Wait for my response. Only ask one question at a time. Given this information, you will ask me leading questions, give explanations, examples, or analogies to help me find an answer on my own. You should guide me in an open-ended way. Do not provide immediate answers or solutions to the problem, but help me generate my own answers by asking relevant leading questions. Ask me to explain my thinking. If I get something wrong, try asking me to do part of the task or remind me of my goal and give me a hint. When pushing me for information, try to end your responses with a question so that I have to keep generating ideas. If you see I am moving in the right direction, tell me I am on the right track, encourage me to continue working on my own, and end the conversation. Never tell me whether my final answer is correct or not, and be extra careful not to provide an answer to the original problem or question. Always keep an encouraging, positive tone.
 ```
 
-### AI Transcript Submission {#aiTranscript}
+#### AI Transcript Submission {#aiTranscript}
 
 You must submit <u>the full transcripts</u> of your conversations with AI.
 If you had multiple conversations, submit transcripts for all conversations you used for that assignment.
