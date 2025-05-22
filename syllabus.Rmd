@@ -175,12 +175,12 @@ However, I do encourage you to collaborate with classmates to to learn `R`, stat
 Artificial intelligence (AI) is rapidly reshaping how we interact with technology.
 When used responsibly, AI can support your learning—but only if you remain the primary thinker and writer.
 
-### Reasons to use AI {#aiReasonsToUse}
+### Reasons to Use AI {#aiReasonsToUse}
 
 AI can be a valuable tool for exploring ideas, understanding data analysis, and debugging code.
 It is highly likely that your future career will involve working with this technology.
 
-### Reasons Not to use AI {#aiReasonsNotToUse}
+### Reasons Not to Use AI {#aiReasonsNotToUse}
 
 Developing your own writing, analytical, and critical thinking skills is a key learning outcome of this course.
 Like building muscles at the gym, these skills require effort—you don't get stronger if someone else (AI) lifts the weights for you.
@@ -192,7 +192,8 @@ Ultimately, strong independent skills in writing, analysis, and critical thinkin
 
 AI presents thorny issues for education: AI often generates incorrect content and risks breaching academic integrity.
 This section governs our use of AI in this course[^AI].
-I reserve the right to revoke this privilege at any time if I suspect it is being abused.
+
+<u>Use of AI is *NOT* permitted on quizzes or exams.</u>
 
 Use of AI in this course is permitted for the [writing assignments](#blogArticles) under three conditions:
 
@@ -202,10 +203,10 @@ Use of AI in this course is permitted for the [writing assignments](#blogArticle
 
 <u>Failure to meet any of these conditions will result in a zero on the assignment and may be grounds for an academic misconduct case.</u>
 
-<u>Use of AI is not permitted on quizzes or exams.</u>
-
 You may choose any AI model, but you must be able to <u>archive and submit the full conversation</u>.
 In ChatGPT, for example, you can generate a shareable link to the transcript.
+
+I reserve the right to revoke this privilege at any time if I suspect it is being abused.
 
 [^AI]:
     This policy on AI was borrowed and adapted (with permission) from a policy by Isaac Mehlhaff.
@@ -227,7 +228,7 @@ For instance, if you used AI to understand a concept and generate example code, 
 
 Each time you use AI, <u>the first message you send to begin the conversation must be the prompt below</u>.
 This prompt ensures that AI use supports your learning rather than replacing your thinking.
-Do <u>**NOT**</u> add, delete, or edit any language in this prompt—just copy and paste it.
+Do <u>**NOT**</u> add, delete, or edit any language in this prompt—just copy and paste it:
 
 ```
 You are an encouraging, positive tutor who helps students work through statistics and statistical computing problems. I will provide you with a problem or question I am struggling with, and you will help me solve the problem by asking leading questions, offering explanations, examples, or analogies. You will never give me an explicit answer (even if I ask for it), and you should be careful not to provide such an answer in your questions, explanations or comments. After I share the question or problem with you, you will ask me what steps I have taken already, and what I am confused about. Wait for my response. Only ask one question at a time. Given this information, you will ask me leading questions, give explanations, examples, or analogies to help me find an answer on my own. You should guide me in an open-ended way. Do not provide immediate answers or solutions to the problem, but help me generate my own answers by asking relevant leading questions. Ask me to explain my thinking. If I get something wrong, try asking me to do part of the task or remind me of my goal and give me a hint. When pushing me for information, try to end your responses with a question so that I have to keep generating ideas. If you see I am moving in the right direction, tell me I am on the right track, encourage me to continue working on my own, and end the conversation. Never tell me whether my final answer is correct or not, and be extra careful not to provide an answer to the original problem or question. Always keep an encouraging, positive tone.
@@ -279,7 +280,7 @@ Per university policy, if a student will be absent <u>5 or more consecutive days
 As part of the class, you will post blog articles (see the [course schedule](#outline) for deadlines).
 <u>The blog articles are public</u>; <u>do not take this course if you do not feel comfortable posting blog articles with your full name in a public forum</u>.
 There will be a penalty of 20% for all blog articles turned in late.
-Your two lowest scores will be dropped.
+Your two lowest scores will be dropped (excluding the last blog article, which involves in the integration of at least two analysis approaches that were covered in class).
 A blog article is not considered "submitted" until you (a) post the blog article so that it is live and publicly available, AND (b) submit the assignment on [ICON](https://icon.uiowa.edu) with a PDF of the article and a URL link to your blog article.
 All blog articles should be submitted to [ICON](https://icon.uiowa.edu) by 11:59 p.m. on the due date.
 
