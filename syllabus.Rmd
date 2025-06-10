@@ -125,11 +125,11 @@ By the end of the course, successful students will be able to:
 1. Use, evaluate, and interpret statistical analyses
 1. Communicate data-driven insights
 
-## How Students Will Achieve the Learning Objectives {#objectivesHowAchieve}
+## How Students Will Achieve the Learning Outcomes {#learningOutcomesHowAchieve}
 
-Students will achieve the learning objectives through the following specific objectives:
+Students will achieve the learning outcomes through the following specific outcomes:
 
-### 1. Think critically and empirically about human behavior and performance {#objectivesThinkCritically}
+### 1. Think critically and empirically about human behavior and performance {#learningOutcomesThinkCritically}
 
 - Apply empirical inference and articulate its advantages over speculative supposition.
 - Formulate research questions, hypotheses, and predictions.
@@ -139,11 +139,11 @@ Students will achieve the learning objectives through the following specific obj
 - Apply core concepts in causal inference, including confounding, causal pathways, and counterfactuals.
 - Compare the strengths and limitations of human and machine approaches to prediction.
 
-### 2. Make sense of big data {#objectivesBigData}
+### 2. Make sense of big data {#learningOutcomesBigData}
 
 - Apply foundational skills in statistical programming using `R` to combine, manipulate, clean, and summarize large datasets.
 
-### 3. Use, evaluate, and interpret statistical analyses {#objectivesAnalyses}
+### 3. Use, evaluate, and interpret statistical analyses {#learningOutcomesAnalyses}
 
 - Conduct data analyses using `R`, including appropriate application of statistical models.
 - Critically evaluate the strengths and limitations of statistical models and methods used for predicting uncertain events.
@@ -152,9 +152,10 @@ Students will achieve the learning objectives through the following specific obj
 - Engage in iterative problem-solving, refining analytical strategies based on results and feedback.
 - Use practical analytical skills that can be applied in future research and job settings.
 
-### 4. Communicate data-driven insights {#objectivesCommunication}
+### 4. Communicate data-driven insights {#learningOutcomesCommunication}
 
 - Communicate statistical findings in writing for a public audience.
+- Identify characteristics of effective data visualizations.
 - Create data visualizations.
 
 # Textbook {#textbook}
