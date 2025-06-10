@@ -110,7 +110,7 @@ Thus, it provides a unique domain to evaluate—and improve—the accuracy of va
 
 # Course Goals {#goals}
 
-The course has three over-arching goals; to help students:
+The course has three overarching goals; to help students:
 
 1. Appreciate the value of statistics for answering questions you find interesting
 1. Think critically and be a critical consumer of information in society
@@ -267,7 +267,7 @@ Do <u>**NOT**</u> add, delete, or edit any language in this prompt—just copy a
 > Ask me to explain my thinking.
 > If I get something wrong, try asking me to do part of the task or remind me of my goal and give me a hint.
 > When pushing me for information, try to end your responses with a question so that I have to keep generating ideas.
-> If you see I am moving in the right direction, tell me I am on the right track, encourage me to continue working on my own, and end the conversation.
+> If you see that I am moving in the right direction, tell me I am on the right track, encourage me to continue working on my own, and end the conversation.
 > Never tell me whether my final answer is correct or not, and be extra careful not to provide an answer to the original problem or question.
 > Always keep an encouraging, positive tone.
 
@@ -316,14 +316,14 @@ Per university policy, if a student will be absent <u>5 or more consecutive days
 
 As part of the class, you will post blog articles (see the [course schedule](#outline) for deadlines).
 <u>The blog articles are public</u>; <u>do not take this course if you do not feel comfortable posting blog articles with your full name in a public forum</u>.
-The blog articles are intended to give you practice integating skills to advance the [learning objectives](#objectives) of a) thinking critically and empirically about human behavior and performance, b) making sense of big data, c) using, evaluating, and interpreting statistical analyses, and d) communicating data-driven insights.
+The blog articles are intended to give you practice integrating skills to advance the [learning objectives](#objectives) of a) thinking critically and empirically about human behavior and performance, b) making sense of big data, c) using, evaluating, and interpreting statistical analyses, and d) communicating data-driven insights.
 There will be a penalty of 20% for all blog articles turned in late.
 Your two lowest scores will be dropped (excluding the last blog article, which involves in the integration of at least two analysis approaches that were covered in class).
 A blog article is not considered "submitted" until you (a) post the blog article so that it is live and publicly available, AND (b) submit the assignment on [ICON](https://icon.uiowa.edu) with a PDF of the article and a URL link to your blog article.
 All blog articles should be submitted to [ICON](https://icon.uiowa.edu) by 11:59 p.m. on the due date.
 
 You are encouraged to submit your blog article <u>well before</u> the deadline.
-<u>You can expect to run into technical issues</u> (e.g., errors when running your code, issues getting the blog post to compile etc.).
+<u>You can expect to run into technical issues</u> (e.g., errors when running your code, issues getting the blog post to compile, etc.).
 Thus, you should give yourself plenty of time to [troubleshoot](#troubleshooting) (see below) so that you can submit your blog article on time.
 
 ### Troubleshooting {#troubleshooting}
@@ -339,8 +339,8 @@ Sometimes reading the error message is all it takes to figure out what the issue
 - If the message does not make sense to you, perform a Google search for the error/issue: often someone else has asked about the same issue and received a useful answer.
 - Simplify your code.
     - Look carefully at intermediate results.
-    - Replace complicated data by something smaller and simpler.
-    - In the process you may find your mistake.
+    - Replace complicated data with something smaller and simpler.
+    - In the process, you may find your mistake.
 - Finding your bug usually involves double checking all the things you are sure you did right until you find the one you did not.
 
 If you are unable to resolve things on your own, you may need to ask for help, in which case I encourage you to try one (or more) of the following:
@@ -367,7 +367,7 @@ Late responses and multiple submissions will not be accepted.
 Your lowest quiz score will be dropped.
 We will not accept excused absences for quizzes because (a) you have a week to complete the quiz (and can submit it at any point during that week), and (b) we drop your lowest quiz score.
 Each quiz will be weighted the same in the final grade.
-Quiz answers will be viewable at the end of the week (i.e., after the last discussion section has taken their quiz).
+Quiz answers will be viewable after class.
 
 Past experience has shown that in order to do well in this class, you should read the required material, participate actively in class, and go over your notes <u>each week</u>.
 There is too much material being covered in this class to try to study only by frantic preparation immediately before exams.
@@ -376,7 +376,7 @@ Note that lecture will <u>not</u> cover all relevant material for the course; yo
 ## Workload {#workload}
 
 This is a 3 semester hour course.
-Students should therefore expect to spend [6 additional hours per week](https://clas.uiowa.edu/faculty/student-workload-guidelines) (outside of class) reading the articles, reviewing material from lecture and discussion section, and preparing for quizzes and exams.
+Students should therefore expect to spend [6 additional hours per week](https://clas.uiowa.edu/faculty/student-workload-guidelines) (outside of class) reading the articles, reviewing material from lecture, and preparing for quizzes and exams.
 
 ## Examinations {#exams}
 
