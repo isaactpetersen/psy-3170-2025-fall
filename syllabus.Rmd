@@ -183,7 +183,7 @@ All students in CLAS courses are expected to abide by the [college's standards o
 Academic misconduct must be reported by instructors to CLAS according to [these procedures](https://policy.clas.uiowa.edu/clas-policies-and-procedures/undergraduate-education/academic-misconduct-undergraduate).
 
 Please note that collaboration with other classmates is not permitted on <u>quizzes, writing assignments</u> (except when collaboratively [troubleshooting `R` errors](#troubleshooting))<u>, or during exams</u>.
-However, I do encourage you to collaborate with classmates to to learn `R`, statistics, and programming, to troubleshoot an error you run into, and to *prepare* for exams (e.g., informal study groups).
+However, I do encourage you to collaborate with classmates to learn `R`, statistics, and programming, to troubleshoot an error you run into, and to *prepare* for exams (e.g., informal study groups).
 In addition, you are expected to follow the course's policy on the use of artificial intelligence (AI), which is outlined below.
 
 # On the Use of Artificial Intelligence {#ai}
@@ -321,6 +321,7 @@ There will be a penalty of 20% for all blog articles turned in late.
 Your two lowest scores will be dropped (excluding the last blog article, which involves in the integration of at least two analysis approaches that were covered in class).
 A blog article is not considered "submitted" until you (a) post the blog article so that it is live and publicly available, AND (b) submit the assignment on [ICON](https://icon.uiowa.edu) with a PDF of the article and a URL link to your blog article.
 All blog articles should be submitted to [ICON](https://icon.uiowa.edu) by 11:59 p.m. on the due date.
+Make sure to follow the rubric for the blog article and to incorporate information on the target topic for that week's blog article.
 
 You are encouraged to submit your blog article <u>well before</u> the deadline.
 <u>You can expect to run into technical issues</u> (e.g., errors when running your code, issues getting the blog post to compile, etc.).
@@ -370,14 +371,10 @@ We will not accept excused absences for quizzes because (a) you have a week to c
 Each quiz will be weighted the same in the final grade.
 Quiz answers will be viewable after class.
 
-Past experience has shown that in order to do well in this class, you should read the required material, participate actively in class, and go over your notes <u>each week</u>.
-There is too much material being covered in this class to try to study only by frantic preparation immediately before exams.
-Note that lecture will <u>not</u> cover all relevant material for the course; you will be expected to know the <u>required</u> readings for exams.
-
 ## Workload {#workload}
 
 This is a 3 semester hour course.
-Students should therefore expect to spend [6 additional hours per week](https://clas.uiowa.edu/faculty/student-workload-guidelines) (outside of class) reading the articles, reviewing material from lecture, and preparing for quizzes and exams.
+Students should therefore expect to spend [6 additional hours per week](https://clas.uiowa.edu/faculty/student-workload-guidelines) (outside of class) reading the articles, doing the writing assignments, reviewing material from lecture, and preparing for quizzes and exams.
 
 ## Examinations {#exams}
 
@@ -389,6 +386,10 @@ However, some integration of information across sections will be required for qu
 The exams will include multiple-choice questions.
 Exam questions can come from <u>any of the following sources: lectures or required readings, videos, or learning activities</u>.
 For suggested study tips for this class, meet with Professor Petersen during office hours.
+
+Past experience has shown that in order to do well in this class, you should read the required material, participate actively in class, and go over your notes <u>each week</u>.
+There is too much material being covered in this class to try to study only by frantic preparation immediately before exams.
+Note that lecture will <u>not</u> cover all relevant material for the course; you will be expected to know the <u>required</u> readings/videos/learning activities for exams.
 
 ### Missing Exams {#missingExams}
 
