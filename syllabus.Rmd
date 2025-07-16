@@ -358,8 +358,9 @@ I do not often respond to emails during evenings or weekends, and I cannot be ex
 ## Readings & Quizzes {#readingQuizzes}
 
 Readings and other materials (e.g., videos) will be posted on [ICON](https://icon.uiowa.edu).
-You are expected to do the readings (and watch any required videos) before class.
+You are expected to do the readings (and watch any required videos and complete any required learning activities) before class.
 You will have an online quiz on the readings/materials to complete in [ICON](https://icon.uiowa.edu), on your own, <u>before</u> each lecture.
+The quizzes will cover the required readings, videos, and learning activities.
 The quizzes are meant to help you come to class prepared to contribute so you are best-positioned to learn and to help others learn.
 The quizzes are not timed (you can spend as much time as you need on each quiz up until the deadline).
 The deadline for each quiz is 30 minutes before class starts.
@@ -386,7 +387,7 @@ The date, time, and location of the final exam will be announced by the 5th week
 Each exam will emphasize information presented for the half of the class that precedes it.
 However, some integration of information across sections will be required for questions on the second exam.
 The exams will include multiple-choice questions.
-Exam questions can come from <u>any of the following sources: lectures or required readings</u>.
+Exam questions can come from <u>any of the following sources: lectures or required readings, videos, or learning activities</u>.
 For suggested study tips for this class, meet with Professor Petersen during office hours.
 
 ### Missing Exams {#missingExams}
