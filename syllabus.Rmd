@@ -285,7 +285,7 @@ Make sure the link works before submitting.
 ## Lecture {#lecture}
 
 We will meet two times weekly for lectures, at the time and location described [above](#lectureTime).
-My powerpoint presentations for the lectures will be posted on [ICON](https://icon.uiowa.edu) no later than noon on the day before the lecture (though I may continue to refine the slides up until the time of lecture).
+My powerpoint presentations for the lectures will be posted on [ICON](https://icon.uiowa.edu) no later than 20 minutes before the lecture; they are made available after the quizzes are due so you use the readings rather than the slides to complete the quiz.
 <u>Please note:</u> powerpoint presentations are an outline of my points. 
 <u>It is your responsibility to take notes during class.</u>
 If you have questions about the lecture notes or need clarification of any of the points, please ask in class or meet with Professor Petersen during office hours.
