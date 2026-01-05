@@ -1,0 +1,6 @@
+---
+title: "Wiki for PSY:3170 – Fantasy Football: Predictive Analytics and Empiricism (Fall 2025)"
+format-links: false
+---
+
+The Class Wiki includes the [course syllabus](syllabus.qmd) and miscellaneous resources.
